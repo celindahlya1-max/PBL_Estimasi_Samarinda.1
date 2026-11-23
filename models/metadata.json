@@ -1,0 +1,68 @@
+{
+  "judul": "Model estimasi P0 kabupaten/kota Kalimantan Timur",
+  "periode_latih": [
+    2017,
+    2024
+  ],
+  "jumlah_baris_latih": 80,
+  "jumlah_wilayah": 10,
+  "fitur": [
+    "Peng_NonMakanan_Rp",
+    "Peng_Disesuaikan_RibuRp",
+    "RLS",
+    "HLS_Perempuan",
+    "UHH",
+    "IDG",
+    "TPAK",
+    "TPT",
+    "Jumlah_Penduduk_Ribu",
+    "Laju_Pertumbuhan_Penduduk",
+    "Kepadatan_per_km2",
+    "Rasio_Jenis_Kelamin"
+  ],
+  "kolom_tidak_dipakai_sebagai_fitur": [
+    "P0_Persen_Miskin",
+    "Jumlah_Penduduk_Miskin_Ribu"
+  ],
+  "m_komponen": 5,
+  "varians_kumulatif_komponen": [
+    0.512599,
+    0.647201,
+    0.753602,
+    0.838473,
+    0.89347
+  ],
+  "ambang_variansi": 0.85,
+  "k_tetangga_terpilih": 2,
+  "kandidat_k_inner_loro": [
+    {
+      "k": 2,
+      "RMSE_inner": 1.913542,
+      "MAE_inner": 1.625066,
+      "R2_inner": 0.411863
+    },
+    {
+      "k": 4,
+      "RMSE_inner": 1.923601,
+      "MAE_inner": 1.578141,
+      "R2_inner": 0.405663
+    },
+    {
+      "k": 3,
+      "RMSE_inner": 2.187177,
+      "MAE_inner": 1.79803,
+      "R2_inner": 0.231629
+    }
+  ],
+  "koefisien": {
+    "intersep": 9.009872,
+    "PC1": -0.938101,
+    "PC2": 0.199484,
+    "PC3": 0.298471,
+    "PC4": 0.081772,
+    "PC5": 0.249577,
+    "SpatialLag": -0.37446
+  },
+  "random_state": 42,
+  "catatan": "Spatial lag dihitung dari P0 tetangga data latih, wilayah tidak pernah menjadi tetangga dirinya sendiri."
+}

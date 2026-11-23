@@ -1,0 +1,13 @@
+Fitur,VIF,Keterangan
+RLS,36.768,multikolinearitas tinggi
+Peng_Disesuaikan_RibuRp,26.521,multikolinearitas tinggi
+Kepadatan_per_km2,11.881,multikolinearitas tinggi
+UHH,7.382,perlu diperhatikan
+Peng_NonMakanan_Rp,7.058,perlu diperhatikan
+Rasio_Jenis_Kelamin,5.182,perlu diperhatikan
+Jumlah_Penduduk_Ribu,4.826,aman
+IDG,4.734,aman
+HLS_Perempuan,4.601,aman
+TPT,2.782,aman
+TPAK,2.312,aman
+Laju_Pertumbuhan_Penduduk,1.274,aman

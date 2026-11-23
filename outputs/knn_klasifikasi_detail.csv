@@ -1,0 +1,401 @@
+Skema,Lipatan,Varian,Wilayah,Tahun,P0_aktual,Kelas_aktual,Kelas_prediksi,Benar,Ambang_bawah,Ambang_atas
+LORO,Paser,knn_klas_baseline,Paser,2017,9.2268,Tinggi,Rendah,False,5.0022,8.024
+LORO,Paser,knn_klas_baseline,Paser,2018,8.9786,Tinggi,Rendah,False,5.0022,8.024
+LORO,Paser,knn_klas_baseline,Paser,2019,8.9017,Tinggi,Rendah,False,5.0022,8.024
+LORO,Paser,knn_klas_baseline,Paser,2020,9.7169,Tinggi,Rendah,False,5.0022,8.024
+LORO,Paser,knn_klas_baseline,Paser,2021,9.928,Tinggi,Rendah,False,5.0022,8.024
+LORO,Paser,knn_klas_baseline,Paser,2022,9.6466,Tinggi,Rendah,False,5.0022,8.024
+LORO,Paser,knn_klas_baseline,Paser,2023,9.289,Tinggi,Rendah,False,5.0022,8.024
+LORO,Paser,knn_klas_baseline,Paser,2024,8.8084,Tinggi,Rendah,False,5.0022,8.024
+LORO,Paser,knn_klas_pca,Paser,2017,9.2268,Tinggi,Menengah,False,5.0022,8.024
+LORO,Paser,knn_klas_pca,Paser,2018,8.9786,Tinggi,Tinggi,True,5.0022,8.024
+LORO,Paser,knn_klas_pca,Paser,2019,8.9017,Tinggi,Menengah,False,5.0022,8.024
+LORO,Paser,knn_klas_pca,Paser,2020,9.7169,Tinggi,Tinggi,True,5.0022,8.024
+LORO,Paser,knn_klas_pca,Paser,2021,9.928,Tinggi,Tinggi,True,5.0022,8.024
+LORO,Paser,knn_klas_pca,Paser,2022,9.6466,Tinggi,Tinggi,True,5.0022,8.024
+LORO,Paser,knn_klas_pca,Paser,2023,9.289,Tinggi,Tinggi,True,5.0022,8.024
+LORO,Paser,knn_klas_pca,Paser,2024,8.8084,Tinggi,Tinggi,True,5.0022,8.024
+LORO,Paser,knn_klas_spasial,Paser,2017,9.2268,Tinggi,Menengah,False,5.0022,8.024
+LORO,Paser,knn_klas_spasial,Paser,2018,8.9786,Tinggi,Menengah,False,5.0022,8.024
+LORO,Paser,knn_klas_spasial,Paser,2019,8.9017,Tinggi,Menengah,False,5.0022,8.024
+LORO,Paser,knn_klas_spasial,Paser,2020,9.7169,Tinggi,Menengah,False,5.0022,8.024
+LORO,Paser,knn_klas_spasial,Paser,2021,9.928,Tinggi,Menengah,False,5.0022,8.024
+LORO,Paser,knn_klas_spasial,Paser,2022,9.6466,Tinggi,Menengah,False,5.0022,8.024
+LORO,Paser,knn_klas_spasial,Paser,2023,9.289,Tinggi,Menengah,False,5.0022,8.024
+LORO,Paser,knn_klas_spasial,Paser,2024,8.8084,Tinggi,Rendah,False,5.0022,8.024
+LORO,Kutai Barat,knn_klas_baseline,Kutai Barat,2017,8.7075,Tinggi,Rendah,False,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_baseline,Kutai Barat,2018,9.1396,Tinggi,Rendah,False,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_baseline,Kutai Barat,2019,9.0878,Tinggi,Rendah,False,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_baseline,Kutai Barat,2020,7.9977,Menengah,Rendah,False,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_baseline,Kutai Barat,2021,8.8391,Tinggi,Rendah,False,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_baseline,Kutai Barat,2022,8.7386,Tinggi,Rendah,False,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_baseline,Kutai Barat,2023,8.2947,Tinggi,Rendah,False,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_baseline,Kutai Barat,2024,8.1086,Tinggi,Rendah,False,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_pca,Kutai Barat,2017,8.7075,Tinggi,Tinggi,True,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_pca,Kutai Barat,2018,9.1396,Tinggi,Tinggi,True,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_pca,Kutai Barat,2019,9.0878,Tinggi,Tinggi,True,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_pca,Kutai Barat,2020,7.9977,Menengah,Tinggi,False,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_pca,Kutai Barat,2021,8.8391,Tinggi,Tinggi,True,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_pca,Kutai Barat,2022,8.7386,Tinggi,Tinggi,True,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_pca,Kutai Barat,2023,8.2947,Tinggi,Tinggi,True,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_pca,Kutai Barat,2024,8.1086,Tinggi,Tinggi,True,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_spasial,Kutai Barat,2017,8.7075,Tinggi,Menengah,False,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_spasial,Kutai Barat,2018,9.1396,Tinggi,Menengah,False,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_spasial,Kutai Barat,2019,9.0878,Tinggi,Menengah,False,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_spasial,Kutai Barat,2020,7.9977,Menengah,Menengah,True,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_spasial,Kutai Barat,2021,8.8391,Tinggi,Tinggi,True,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_spasial,Kutai Barat,2022,8.7386,Tinggi,Tinggi,True,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_spasial,Kutai Barat,2023,8.2947,Tinggi,Menengah,False,5.0022,8.0718
+LORO,Kutai Barat,knn_klas_spasial,Kutai Barat,2024,8.1086,Tinggi,Rendah,False,5.0022,8.0718
+LORO,Kutai Kartanegara,knn_klas_baseline,Kutai Kartanegara,2017,7.5216,Menengah,Rendah,False,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_baseline,Kutai Kartanegara,2018,7.3521,Menengah,Rendah,False,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_baseline,Kutai Kartanegara,2019,7.167,Menengah,Rendah,False,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_baseline,Kutai Kartanegara,2020,8.0093,Menengah,Rendah,False,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_baseline,Kutai Kartanegara,2021,8.5005,Tinggi,Rendah,False,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_baseline,Kutai Kartanegara,2022,8.5167,Tinggi,Rendah,False,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_baseline,Kutai Kartanegara,2023,8.0418,Menengah,Rendah,False,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_baseline,Kutai Kartanegara,2024,7.4702,Menengah,Rendah,False,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_pca,Kutai Kartanegara,2017,7.5216,Menengah,Tinggi,False,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_pca,Kutai Kartanegara,2018,7.3521,Menengah,Tinggi,False,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_pca,Kutai Kartanegara,2019,7.167,Menengah,Tinggi,False,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_pca,Kutai Kartanegara,2020,8.0093,Menengah,Tinggi,False,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_pca,Kutai Kartanegara,2021,8.5005,Tinggi,Tinggi,True,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_pca,Kutai Kartanegara,2022,8.5167,Tinggi,Tinggi,True,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_pca,Kutai Kartanegara,2023,8.0418,Menengah,Tinggi,False,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_pca,Kutai Kartanegara,2024,7.4702,Menengah,Tinggi,False,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_spasial,Kutai Kartanegara,2017,7.5216,Menengah,Tinggi,False,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_spasial,Kutai Kartanegara,2018,7.3521,Menengah,Tinggi,False,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_spasial,Kutai Kartanegara,2019,7.167,Menengah,Tinggi,False,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_spasial,Kutai Kartanegara,2020,8.0093,Menengah,Menengah,True,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_spasial,Kutai Kartanegara,2021,8.5005,Tinggi,Tinggi,True,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_spasial,Kutai Kartanegara,2022,8.5167,Tinggi,Tinggi,True,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_spasial,Kutai Kartanegara,2023,8.0418,Menengah,Menengah,True,5.0022,8.49
+LORO,Kutai Kartanegara,knn_klas_spasial,Kutai Kartanegara,2024,7.4702,Menengah,Menengah,True,5.0022,8.49
+LORO,Kutai Timur,knn_klas_baseline,Kutai Timur,2017,9.1942,Tinggi,Rendah,False,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_baseline,Kutai Timur,2018,9.1291,Tinggi,Rendah,False,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_baseline,Kutai Timur,2019,9.3885,Tinggi,Rendah,False,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_baseline,Kutai Timur,2020,8.5109,Tinggi,Rendah,False,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_baseline,Kutai Timur,2021,8.4105,Tinggi,Rendah,False,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_baseline,Kutai Timur,2022,7.8584,Menengah,Rendah,False,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_baseline,Kutai Timur,2023,8.1317,Menengah,Rendah,False,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_baseline,Kutai Timur,2024,8.0151,Menengah,Rendah,False,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_pca,Kutai Timur,2017,9.1942,Tinggi,Rendah,False,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_pca,Kutai Timur,2018,9.1291,Tinggi,Rendah,False,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_pca,Kutai Timur,2019,9.3885,Tinggi,Menengah,False,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_pca,Kutai Timur,2020,8.5109,Tinggi,Rendah,False,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_pca,Kutai Timur,2021,8.4105,Tinggi,Rendah,False,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_pca,Kutai Timur,2022,7.8584,Menengah,Menengah,True,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_pca,Kutai Timur,2023,8.1317,Menengah,Menengah,True,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_pca,Kutai Timur,2024,8.0151,Menengah,Menengah,True,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_spasial,Kutai Timur,2017,9.1942,Tinggi,Menengah,False,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_spasial,Kutai Timur,2018,9.1291,Tinggi,Rendah,False,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_spasial,Kutai Timur,2019,9.3885,Tinggi,Rendah,False,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_spasial,Kutai Timur,2020,8.5109,Tinggi,Rendah,False,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_spasial,Kutai Timur,2021,8.4105,Tinggi,Menengah,False,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_spasial,Kutai Timur,2022,7.8584,Menengah,Menengah,True,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_spasial,Kutai Timur,2023,8.1317,Menengah,Menengah,True,5.0022,8.1706
+LORO,Kutai Timur,knn_klas_spasial,Kutai Timur,2024,8.0151,Menengah,Rendah,False,5.0022,8.1706
+LORO,Berau,knn_klas_baseline,Berau,2017,5.3762,Menengah,Menengah,True,5.1465,8.5128
+LORO,Berau,knn_klas_baseline,Berau,2018,5.0022,Rendah,Menengah,False,5.1465,8.5128
+LORO,Berau,knn_klas_baseline,Berau,2019,5.0022,Rendah,Menengah,False,5.1465,8.5128
+LORO,Berau,knn_klas_baseline,Berau,2020,4.9597,Rendah,Menengah,False,5.1465,8.5128
+LORO,Berau,knn_klas_baseline,Berau,2021,5.3919,Menengah,Menengah,True,5.1465,8.5128
+LORO,Berau,knn_klas_baseline,Berau,2022,5.1489,Menengah,Menengah,True,5.1465,8.5128
+LORO,Berau,knn_klas_baseline,Berau,2023,5.1336,Rendah,Menengah,False,5.1465,8.5128
+LORO,Berau,knn_klas_baseline,Berau,2024,4.7173,Rendah,Menengah,False,5.1465,8.5128
+LORO,Berau,knn_klas_pca,Berau,2017,5.3762,Menengah,Menengah,True,5.1465,8.5128
+LORO,Berau,knn_klas_pca,Berau,2018,5.0022,Rendah,Menengah,False,5.1465,8.5128
+LORO,Berau,knn_klas_pca,Berau,2019,5.0022,Rendah,Tinggi,False,5.1465,8.5128
+LORO,Berau,knn_klas_pca,Berau,2020,4.9597,Rendah,Menengah,False,5.1465,8.5128
+LORO,Berau,knn_klas_pca,Berau,2021,5.3919,Menengah,Menengah,True,5.1465,8.5128
+LORO,Berau,knn_klas_pca,Berau,2022,5.1489,Menengah,Menengah,True,5.1465,8.5128
+LORO,Berau,knn_klas_pca,Berau,2023,5.1336,Rendah,Menengah,False,5.1465,8.5128
+LORO,Berau,knn_klas_pca,Berau,2024,4.7173,Rendah,Menengah,False,5.1465,8.5128
+LORO,Berau,knn_klas_spasial,Berau,2017,5.3762,Menengah,Tinggi,False,5.1465,8.5128
+LORO,Berau,knn_klas_spasial,Berau,2018,5.0022,Rendah,Tinggi,False,5.1465,8.5128
+LORO,Berau,knn_klas_spasial,Berau,2019,5.0022,Rendah,Tinggi,False,5.1465,8.5128
+LORO,Berau,knn_klas_spasial,Berau,2020,4.9597,Rendah,Menengah,False,5.1465,8.5128
+LORO,Berau,knn_klas_spasial,Berau,2021,5.3919,Menengah,Menengah,True,5.1465,8.5128
+LORO,Berau,knn_klas_spasial,Berau,2022,5.1489,Menengah,Menengah,True,5.1465,8.5128
+LORO,Berau,knn_klas_spasial,Berau,2023,5.1336,Rendah,Menengah,False,5.1465,8.5128
+LORO,Berau,knn_klas_spasial,Berau,2024,4.7173,Rendah,Menengah,False,5.1465,8.5128
+LORO,Penajam Paser Utara,knn_klas_baseline,Penajam Paser Utara,2017,7.6094,Menengah,Menengah,True,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_baseline,Penajam Paser Utara,2018,7.3777,Menengah,Menengah,True,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_baseline,Penajam Paser Utara,2019,7.1597,Menengah,Menengah,True,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_baseline,Penajam Paser Utara,2020,6.676,Menengah,Menengah,True,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_baseline,Penajam Paser Utara,2021,6.7128,Menengah,Menengah,True,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_baseline,Penajam Paser Utara,2022,6.3333,Menengah,Menengah,True,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_baseline,Penajam Paser Utara,2023,5.663,Menengah,Menengah,True,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_baseline,Penajam Paser Utara,2024,4.0269,Rendah,Menengah,False,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_pca,Penajam Paser Utara,2017,7.6094,Menengah,Tinggi,False,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_pca,Penajam Paser Utara,2018,7.3777,Menengah,Tinggi,False,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_pca,Penajam Paser Utara,2019,7.1597,Menengah,Menengah,True,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_pca,Penajam Paser Utara,2020,6.676,Menengah,Tinggi,False,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_pca,Penajam Paser Utara,2021,6.7128,Menengah,Tinggi,False,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_pca,Penajam Paser Utara,2022,6.3333,Menengah,Tinggi,False,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_pca,Penajam Paser Utara,2023,5.663,Menengah,Tinggi,False,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_pca,Penajam Paser Utara,2024,4.0269,Rendah,Tinggi,False,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_spasial,Penajam Paser Utara,2017,7.6094,Menengah,Rendah,False,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_spasial,Penajam Paser Utara,2018,7.3777,Menengah,Rendah,False,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_spasial,Penajam Paser Utara,2019,7.1597,Menengah,Rendah,False,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_spasial,Penajam Paser Utara,2020,6.676,Menengah,Rendah,False,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_spasial,Penajam Paser Utara,2021,6.7128,Menengah,Rendah,False,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_spasial,Penajam Paser Utara,2022,6.3333,Menengah,Rendah,False,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_spasial,Penajam Paser Utara,2023,5.663,Menengah,Rendah,False,5.0175,8.5128
+LORO,Penajam Paser Utara,knn_klas_spasial,Penajam Paser Utara,2024,4.0269,Rendah,Rendah,True,5.0175,8.5128
+LORO,Mahakam Ulu,knn_klas_baseline,Mahakam Ulu,2017,11.673,Tinggi,Rendah,False,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_baseline,Mahakam Ulu,2018,12.3574,Tinggi,Rendah,False,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_baseline,Mahakam Ulu,2019,12.0833,Tinggi,Rendah,False,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_baseline,Mahakam Ulu,2020,10.0308,Tinggi,Rendah,False,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_baseline,Mahakam Ulu,2021,9.6364,Tinggi,Rendah,False,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_baseline,Mahakam Ulu,2022,9.2537,Tinggi,Rendah,False,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_baseline,Mahakam Ulu,2023,9.0533,Tinggi,Rendah,False,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_baseline,Mahakam Ulu,2024,8.4795,Tinggi,Rendah,False,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_pca,Mahakam Ulu,2017,11.673,Tinggi,Tinggi,True,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_pca,Mahakam Ulu,2018,12.3574,Tinggi,Tinggi,True,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_pca,Mahakam Ulu,2019,12.0833,Tinggi,Tinggi,True,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_pca,Mahakam Ulu,2020,10.0308,Tinggi,Tinggi,True,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_pca,Mahakam Ulu,2021,9.6364,Tinggi,Tinggi,True,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_pca,Mahakam Ulu,2022,9.2537,Tinggi,Tinggi,True,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_pca,Mahakam Ulu,2023,9.0533,Tinggi,Tinggi,True,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_pca,Mahakam Ulu,2024,8.4795,Tinggi,Tinggi,True,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_spasial,Mahakam Ulu,2017,11.673,Tinggi,Tinggi,True,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_spasial,Mahakam Ulu,2018,12.3574,Tinggi,Tinggi,True,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_spasial,Mahakam Ulu,2019,12.0833,Tinggi,Tinggi,True,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_spasial,Mahakam Ulu,2020,10.0308,Tinggi,Menengah,False,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_spasial,Mahakam Ulu,2021,9.6364,Tinggi,Tinggi,True,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_spasial,Mahakam Ulu,2022,9.2537,Tinggi,Tinggi,True,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_spasial,Mahakam Ulu,2023,9.0533,Tinggi,Tinggi,True,5.0022,8.024
+LORO,Mahakam Ulu,knn_klas_spasial,Mahakam Ulu,2024,8.4795,Tinggi,Menengah,False,5.0022,8.024
+LORO,Balikpapan,knn_klas_baseline,Balikpapan,2017,2.8082,Rendah,Menengah,False,5.3867,8.5128
+LORO,Balikpapan,knn_klas_baseline,Balikpapan,2018,2.6344,Rendah,Menengah,False,5.3867,8.5128
+LORO,Balikpapan,knn_klas_baseline,Balikpapan,2019,2.4084,Rendah,Menengah,False,5.3867,8.5128
+LORO,Balikpapan,knn_klas_baseline,Balikpapan,2020,2.4728,Rendah,Menengah,False,5.3867,8.5128
+LORO,Balikpapan,knn_klas_baseline,Balikpapan,2021,2.665,Rendah,Menengah,False,5.3867,8.5128
+LORO,Balikpapan,knn_klas_baseline,Balikpapan,2022,2.2499,Rendah,Menengah,False,5.3867,8.5128
+LORO,Balikpapan,knn_klas_baseline,Balikpapan,2023,2.1113,Rendah,Menengah,False,5.3867,8.5128
+LORO,Balikpapan,knn_klas_baseline,Balikpapan,2024,2.0259,Rendah,Menengah,False,5.3867,8.5128
+LORO,Balikpapan,knn_klas_pca,Balikpapan,2017,2.8082,Rendah,Rendah,True,5.3867,8.5128
+LORO,Balikpapan,knn_klas_pca,Balikpapan,2018,2.6344,Rendah,Rendah,True,5.3867,8.5128
+LORO,Balikpapan,knn_klas_pca,Balikpapan,2019,2.4084,Rendah,Rendah,True,5.3867,8.5128
+LORO,Balikpapan,knn_klas_pca,Balikpapan,2020,2.4728,Rendah,Rendah,True,5.3867,8.5128
+LORO,Balikpapan,knn_klas_pca,Balikpapan,2021,2.665,Rendah,Rendah,True,5.3867,8.5128
+LORO,Balikpapan,knn_klas_pca,Balikpapan,2022,2.2499,Rendah,Rendah,True,5.3867,8.5128
+LORO,Balikpapan,knn_klas_pca,Balikpapan,2023,2.1113,Rendah,Rendah,True,5.3867,8.5128
+LORO,Balikpapan,knn_klas_pca,Balikpapan,2024,2.0259,Rendah,Rendah,True,5.3867,8.5128
+LORO,Balikpapan,knn_klas_spasial,Balikpapan,2017,2.8082,Rendah,Menengah,False,5.3867,8.5128
+LORO,Balikpapan,knn_klas_spasial,Balikpapan,2018,2.6344,Rendah,Menengah,False,5.3867,8.5128
+LORO,Balikpapan,knn_klas_spasial,Balikpapan,2019,2.4084,Rendah,Menengah,False,5.3867,8.5128
+LORO,Balikpapan,knn_klas_spasial,Balikpapan,2020,2.4728,Rendah,Menengah,False,5.3867,8.5128
+LORO,Balikpapan,knn_klas_spasial,Balikpapan,2021,2.665,Rendah,Menengah,False,5.3867,8.5128
+LORO,Balikpapan,knn_klas_spasial,Balikpapan,2022,2.2499,Rendah,Menengah,False,5.3867,8.5128
+LORO,Balikpapan,knn_klas_spasial,Balikpapan,2023,2.1113,Rendah,Menengah,False,5.3867,8.5128
+LORO,Balikpapan,knn_klas_spasial,Balikpapan,2024,2.0259,Rendah,Rendah,True,5.3867,8.5128
+LORO,Samarinda,knn_klas_baseline,Samarinda,2017,4.7433,Rendah,Menengah,False,5.3867,8.5128
+LORO,Samarinda,knn_klas_baseline,Samarinda,2018,4.5717,Rendah,Menengah,False,5.3867,8.5128
+LORO,Samarinda,knn_klas_baseline,Samarinda,2019,4.56,Rendah,Menengah,False,5.3867,8.5128
+LORO,Samarinda,knn_klas_baseline,Samarinda,2020,5.0628,Rendah,Menengah,False,5.3867,8.5128
+LORO,Samarinda,knn_klas_baseline,Samarinda,2021,5.1552,Rendah,Menengah,False,5.3867,8.5128
+LORO,Samarinda,knn_klas_baseline,Samarinda,2022,5.0252,Rendah,Menengah,False,5.3867,8.5128
+LORO,Samarinda,knn_klas_baseline,Samarinda,2023,4.9248,Rendah,Menengah,False,5.3867,8.5128
+LORO,Samarinda,knn_klas_baseline,Samarinda,2024,4.4051,Rendah,Menengah,False,5.3867,8.5128
+LORO,Samarinda,knn_klas_pca,Samarinda,2017,4.7433,Rendah,Rendah,True,5.3867,8.5128
+LORO,Samarinda,knn_klas_pca,Samarinda,2018,4.5717,Rendah,Rendah,True,5.3867,8.5128
+LORO,Samarinda,knn_klas_pca,Samarinda,2019,4.56,Rendah,Rendah,True,5.3867,8.5128
+LORO,Samarinda,knn_klas_pca,Samarinda,2020,5.0628,Rendah,Rendah,True,5.3867,8.5128
+LORO,Samarinda,knn_klas_pca,Samarinda,2021,5.1552,Rendah,Rendah,True,5.3867,8.5128
+LORO,Samarinda,knn_klas_pca,Samarinda,2022,5.0252,Rendah,Rendah,True,5.3867,8.5128
+LORO,Samarinda,knn_klas_pca,Samarinda,2023,4.9248,Rendah,Rendah,True,5.3867,8.5128
+LORO,Samarinda,knn_klas_pca,Samarinda,2024,4.4051,Rendah,Rendah,True,5.3867,8.5128
+LORO,Samarinda,knn_klas_spasial,Samarinda,2017,4.7433,Rendah,Rendah,True,5.3867,8.5128
+LORO,Samarinda,knn_klas_spasial,Samarinda,2018,4.5717,Rendah,Rendah,True,5.3867,8.5128
+LORO,Samarinda,knn_klas_spasial,Samarinda,2019,4.56,Rendah,Rendah,True,5.3867,8.5128
+LORO,Samarinda,knn_klas_spasial,Samarinda,2020,5.0628,Rendah,Rendah,True,5.3867,8.5128
+LORO,Samarinda,knn_klas_spasial,Samarinda,2021,5.1552,Rendah,Rendah,True,5.3867,8.5128
+LORO,Samarinda,knn_klas_spasial,Samarinda,2022,5.0252,Rendah,Rendah,True,5.3867,8.5128
+LORO,Samarinda,knn_klas_spasial,Samarinda,2023,4.9248,Rendah,Rendah,True,5.3867,8.5128
+LORO,Samarinda,knn_klas_spasial,Samarinda,2024,4.4051,Rendah,Rendah,True,5.3867,8.5128
+LORO,Bontang,knn_klas_baseline,Bontang,2017,5.129,Rendah,Menengah,False,5.3867,8.5128
+LORO,Bontang,knn_klas_baseline,Bontang,2018,4.6498,Rendah,Menengah,False,5.3867,8.5128
+LORO,Bontang,knn_klas_baseline,Bontang,2019,4.1981,Rendah,Menengah,False,5.3867,8.5128
+LORO,Bontang,knn_klas_baseline,Bontang,2020,4.4215,Rendah,Menengah,False,5.3867,8.5128
+LORO,Bontang,knn_klas_baseline,Bontang,2021,4.6515,Rendah,Menengah,False,5.3867,8.5128
+LORO,Bontang,knn_klas_baseline,Bontang,2022,4.5797,Rendah,Menengah,False,5.3867,8.5128
+LORO,Bontang,knn_klas_baseline,Bontang,2023,4.1496,Rendah,Menengah,False,5.3867,8.5128
+LORO,Bontang,knn_klas_baseline,Bontang,2024,3.7759,Rendah,Menengah,False,5.3867,8.5128
+LORO,Bontang,knn_klas_pca,Bontang,2017,5.129,Rendah,Rendah,True,5.3867,8.5128
+LORO,Bontang,knn_klas_pca,Bontang,2018,4.6498,Rendah,Menengah,False,5.3867,8.5128
+LORO,Bontang,knn_klas_pca,Bontang,2019,4.1981,Rendah,Rendah,True,5.3867,8.5128
+LORO,Bontang,knn_klas_pca,Bontang,2020,4.4215,Rendah,Rendah,True,5.3867,8.5128
+LORO,Bontang,knn_klas_pca,Bontang,2021,4.6515,Rendah,Rendah,True,5.3867,8.5128
+LORO,Bontang,knn_klas_pca,Bontang,2022,4.5797,Rendah,Menengah,False,5.3867,8.5128
+LORO,Bontang,knn_klas_pca,Bontang,2023,4.1496,Rendah,Rendah,True,5.3867,8.5128
+LORO,Bontang,knn_klas_pca,Bontang,2024,3.7759,Rendah,Rendah,True,5.3867,8.5128
+LORO,Bontang,knn_klas_spasial,Bontang,2017,5.129,Rendah,Rendah,True,5.3867,8.5128
+LORO,Bontang,knn_klas_spasial,Bontang,2018,4.6498,Rendah,Rendah,True,5.3867,8.5128
+LORO,Bontang,knn_klas_spasial,Bontang,2019,4.1981,Rendah,Rendah,True,5.3867,8.5128
+LORO,Bontang,knn_klas_spasial,Bontang,2020,4.4215,Rendah,Rendah,True,5.3867,8.5128
+LORO,Bontang,knn_klas_spasial,Bontang,2021,4.6515,Rendah,Rendah,True,5.3867,8.5128
+LORO,Bontang,knn_klas_spasial,Bontang,2022,4.5797,Rendah,Rendah,True,5.3867,8.5128
+LORO,Bontang,knn_klas_spasial,Bontang,2023,4.1496,Rendah,Rendah,True,5.3867,8.5128
+LORO,Bontang,knn_klas_spasial,Bontang,2024,3.7759,Rendah,Rendah,True,5.3867,8.5128
+LOOCV_baris,baris,knn_klas_baseline,Paser,2017,9.2268,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Paser,2017,9.2268,Tinggi,Menengah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Paser,2018,8.9786,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Paser,2018,8.9786,Tinggi,Tinggi,True,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Paser,2019,8.9017,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Paser,2019,8.9017,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Paser,2020,9.7169,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Paser,2020,9.7169,Tinggi,Tinggi,True,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Paser,2021,9.928,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Paser,2021,9.928,Tinggi,Tinggi,True,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Paser,2022,9.6466,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Paser,2022,9.6466,Tinggi,Tinggi,True,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Paser,2023,9.289,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Paser,2023,9.289,Tinggi,Tinggi,True,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Paser,2024,8.8084,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Paser,2024,8.8084,Tinggi,Tinggi,True,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Kutai Barat,2017,8.7075,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Kutai Barat,2017,8.7075,Tinggi,Tinggi,True,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Kutai Barat,2018,9.1396,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Kutai Barat,2018,9.1396,Tinggi,Tinggi,True,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Kutai Barat,2019,9.0878,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Kutai Barat,2019,9.0878,Tinggi,Tinggi,True,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Kutai Barat,2020,7.9977,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Kutai Barat,2020,7.9977,Menengah,Tinggi,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Kutai Barat,2021,8.8391,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Kutai Barat,2021,8.8391,Tinggi,Menengah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Kutai Barat,2022,8.7386,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Kutai Barat,2022,8.7386,Tinggi,Menengah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Kutai Barat,2023,8.2947,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Kutai Barat,2023,8.2947,Menengah,Tinggi,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Kutai Barat,2024,8.1086,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Kutai Barat,2024,8.1086,Menengah,Tinggi,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Kutai Kartanegara,2017,7.5216,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Kutai Kartanegara,2017,7.5216,Menengah,Menengah,True,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Kutai Kartanegara,2018,7.3521,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Kutai Kartanegara,2018,7.3521,Menengah,Menengah,True,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Kutai Kartanegara,2019,7.167,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Kutai Kartanegara,2019,7.167,Menengah,Menengah,True,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Kutai Kartanegara,2020,8.0093,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Kutai Kartanegara,2020,8.0093,Menengah,Tinggi,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Kutai Kartanegara,2021,8.5005,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Kutai Kartanegara,2021,8.5005,Tinggi,Menengah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Kutai Kartanegara,2022,8.5167,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Kutai Kartanegara,2022,8.5167,Tinggi,Menengah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Kutai Kartanegara,2023,8.0418,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Kutai Kartanegara,2023,8.0418,Menengah,Tinggi,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Kutai Kartanegara,2024,7.4702,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Kutai Kartanegara,2024,7.4702,Menengah,Tinggi,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Kutai Timur,2017,9.1942,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Kutai Timur,2017,9.1942,Tinggi,Tinggi,True,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Kutai Timur,2018,9.1291,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Kutai Timur,2018,9.1291,Tinggi,Tinggi,True,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Kutai Timur,2019,9.3885,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Kutai Timur,2019,9.3885,Tinggi,Menengah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Kutai Timur,2020,8.5109,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Kutai Timur,2020,8.5109,Tinggi,Menengah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Kutai Timur,2021,8.4105,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Kutai Timur,2021,8.4105,Menengah,Menengah,True,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Kutai Timur,2022,7.8584,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Kutai Timur,2022,7.8584,Menengah,Menengah,True,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Kutai Timur,2023,8.1317,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Kutai Timur,2023,8.1317,Menengah,Menengah,True,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Kutai Timur,2024,8.0151,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Kutai Timur,2024,8.0151,Menengah,Menengah,True,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Berau,2017,5.3762,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Berau,2017,5.3762,Menengah,Menengah,True,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Berau,2018,5.0022,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Berau,2018,5.0022,Rendah,Menengah,False,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Berau,2019,5.0022,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Berau,2019,5.0022,Rendah,Tinggi,False,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Berau,2020,4.9597,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Berau,2020,4.9597,Rendah,Menengah,False,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Berau,2021,5.3919,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Berau,2021,5.3919,Menengah,Menengah,True,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Berau,2022,5.1489,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Berau,2022,5.1489,Menengah,Menengah,True,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Berau,2023,5.1336,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Berau,2023,5.1336,Menengah,Menengah,True,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Berau,2024,4.7173,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Berau,2024,4.7173,Rendah,Menengah,False,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Penajam Paser Utara,2017,7.6094,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Penajam Paser Utara,2017,7.6094,Menengah,Menengah,True,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Penajam Paser Utara,2018,7.3777,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Penajam Paser Utara,2018,7.3777,Menengah,Menengah,True,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Penajam Paser Utara,2019,7.1597,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Penajam Paser Utara,2019,7.1597,Menengah,Menengah,True,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Penajam Paser Utara,2020,6.676,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Penajam Paser Utara,2020,6.676,Menengah,Menengah,True,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Penajam Paser Utara,2021,6.7128,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Penajam Paser Utara,2021,6.7128,Menengah,Menengah,True,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Penajam Paser Utara,2022,6.3333,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Penajam Paser Utara,2022,6.3333,Menengah,Menengah,True,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Penajam Paser Utara,2023,5.663,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Penajam Paser Utara,2023,5.663,Menengah,Menengah,True,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Penajam Paser Utara,2024,4.0269,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Penajam Paser Utara,2024,4.0269,Rendah,Tinggi,False,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Mahakam Ulu,2017,11.673,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Mahakam Ulu,2017,11.673,Tinggi,Tinggi,True,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Mahakam Ulu,2018,12.3574,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Mahakam Ulu,2018,12.3574,Tinggi,Tinggi,True,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Mahakam Ulu,2019,12.0833,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Mahakam Ulu,2019,12.0833,Tinggi,Tinggi,True,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Mahakam Ulu,2020,10.0308,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Mahakam Ulu,2020,10.0308,Tinggi,Tinggi,True,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Mahakam Ulu,2021,9.6364,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Mahakam Ulu,2021,9.6364,Tinggi,Tinggi,True,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Mahakam Ulu,2022,9.2537,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Mahakam Ulu,2022,9.2537,Tinggi,Tinggi,True,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Mahakam Ulu,2023,9.0533,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Mahakam Ulu,2023,9.0533,Tinggi,Tinggi,True,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Mahakam Ulu,2024,8.4795,Tinggi,Rendah,False,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_pca,Mahakam Ulu,2024,8.4795,Tinggi,Tinggi,True,5.0628,8.4105
+LOOCV_baris,baris,knn_klas_baseline,Balikpapan,2017,2.8082,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Balikpapan,2017,2.8082,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Balikpapan,2018,2.6344,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Balikpapan,2018,2.6344,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Balikpapan,2019,2.4084,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Balikpapan,2019,2.4084,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Balikpapan,2020,2.4728,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Balikpapan,2020,2.4728,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Balikpapan,2021,2.665,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Balikpapan,2021,2.665,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Balikpapan,2022,2.2499,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Balikpapan,2022,2.2499,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Balikpapan,2023,2.1113,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Balikpapan,2023,2.1113,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Balikpapan,2024,2.0259,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Balikpapan,2024,2.0259,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Samarinda,2017,4.7433,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Samarinda,2017,4.7433,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Samarinda,2018,4.5717,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Samarinda,2018,4.5717,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Samarinda,2019,4.56,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Samarinda,2019,4.56,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Samarinda,2020,5.0628,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Samarinda,2020,5.0628,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Samarinda,2021,5.1552,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Samarinda,2021,5.1552,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Samarinda,2022,5.0252,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Samarinda,2022,5.0252,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Samarinda,2023,4.9248,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Samarinda,2023,4.9248,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Samarinda,2024,4.4051,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Samarinda,2024,4.4051,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Bontang,2017,5.129,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_pca,Bontang,2017,5.129,Menengah,Rendah,False,5.0628,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Bontang,2018,4.6498,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Bontang,2018,4.6498,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Bontang,2019,4.1981,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Bontang,2019,4.1981,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Bontang,2020,4.4215,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Bontang,2020,4.4215,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Bontang,2021,4.6515,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Bontang,2021,4.6515,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Bontang,2022,4.5797,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Bontang,2022,4.5797,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Bontang,2023,4.1496,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Bontang,2023,4.1496,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_baseline,Bontang,2024,3.7759,Rendah,Rendah,True,5.129,8.4795
+LOOCV_baris,baris,knn_klas_pca,Bontang,2024,3.7759,Rendah,Rendah,True,5.129,8.4795

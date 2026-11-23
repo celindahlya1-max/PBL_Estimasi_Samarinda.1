@@ -1,0 +1,601 @@
+Skema,Lipatan,Wilayah,Tahun,Aktual,Model,Estimasi,Galat
+LORO,Paser,Paser,2017,9.2268,baseline,6.5051,2.7217
+LORO,Paser,Paser,2018,8.9786,baseline,6.5051,2.4735
+LORO,Paser,Paser,2019,8.9017,baseline,6.5051,2.3966
+LORO,Paser,Paser,2020,9.7169,baseline,6.5051,3.2118
+LORO,Paser,Paser,2021,9.928,baseline,6.5051,3.4229
+LORO,Paser,Paser,2022,9.6466,baseline,6.5051,3.1415
+LORO,Paser,Paser,2023,9.289,baseline,6.5051,2.7839
+LORO,Paser,Paser,2024,8.8084,baseline,6.5051,2.3033
+LORO,Paser,Paser,2017,9.2268,mlr_tanpa_pca,8.4303,0.7965
+LORO,Paser,Paser,2018,8.9786,mlr_tanpa_pca,8.4285,0.5501
+LORO,Paser,Paser,2019,8.9017,mlr_tanpa_pca,8.0947,0.807
+LORO,Paser,Paser,2020,9.7169,mlr_tanpa_pca,8.5079,1.209
+LORO,Paser,Paser,2021,9.928,mlr_tanpa_pca,8.2729,1.6551
+LORO,Paser,Paser,2022,9.6466,mlr_tanpa_pca,7.7488,1.8978
+LORO,Paser,Paser,2023,9.289,mlr_tanpa_pca,7.7192,1.5698
+LORO,Paser,Paser,2024,8.8084,mlr_tanpa_pca,8.2368,0.5716
+LORO,Paser,Paser,2017,9.2268,pca_tanpa_lag,7.86,1.3668
+LORO,Paser,Paser,2018,8.9786,pca_tanpa_lag,8.1923,0.7863
+LORO,Paser,Paser,2019,8.9017,pca_tanpa_lag,7.8586,1.0431
+LORO,Paser,Paser,2020,9.7169,pca_tanpa_lag,7.9138,1.8031
+LORO,Paser,Paser,2021,9.928,pca_tanpa_lag,7.3427,2.5853
+LORO,Paser,Paser,2022,9.6466,pca_tanpa_lag,6.984,2.6626
+LORO,Paser,Paser,2023,9.289,pca_tanpa_lag,7.0231,2.2659
+LORO,Paser,Paser,2024,8.8084,pca_tanpa_lag,7.3405,1.4679
+LORO,Paser,Paser,2017,9.2268,utama,7.8561,1.3707
+LORO,Paser,Paser,2018,8.9786,utama,8.1646,0.814
+LORO,Paser,Paser,2019,8.9017,utama,7.8387,1.063
+LORO,Paser,Paser,2020,9.7169,utama,7.8737,1.8432
+LORO,Paser,Paser,2021,9.928,utama,7.3121,2.6159
+LORO,Paser,Paser,2022,9.6466,utama,6.9573,2.6893
+LORO,Paser,Paser,2023,9.289,utama,6.9792,2.3098
+LORO,Paser,Paser,2024,8.8084,utama,7.2572,1.5512
+LORO,Kutai Barat,Kutai Barat,2017,8.7075,baseline,6.5827,2.1248
+LORO,Kutai Barat,Kutai Barat,2018,9.1396,baseline,6.5827,2.5569
+LORO,Kutai Barat,Kutai Barat,2019,9.0878,baseline,6.5827,2.5051
+LORO,Kutai Barat,Kutai Barat,2020,7.9977,baseline,6.5827,1.415
+LORO,Kutai Barat,Kutai Barat,2021,8.8391,baseline,6.5827,2.2564
+LORO,Kutai Barat,Kutai Barat,2022,8.7386,baseline,6.5827,2.1559
+LORO,Kutai Barat,Kutai Barat,2023,8.2947,baseline,6.5827,1.712
+LORO,Kutai Barat,Kutai Barat,2024,8.1086,baseline,6.5827,1.5259
+LORO,Kutai Barat,Kutai Barat,2017,8.7075,mlr_tanpa_pca,9.5226,-0.8151
+LORO,Kutai Barat,Kutai Barat,2018,9.1396,mlr_tanpa_pca,9.193,-0.0534
+LORO,Kutai Barat,Kutai Barat,2019,9.0878,mlr_tanpa_pca,8.7784,0.3094
+LORO,Kutai Barat,Kutai Barat,2020,7.9977,mlr_tanpa_pca,8.956,-0.9583
+LORO,Kutai Barat,Kutai Barat,2021,8.8391,mlr_tanpa_pca,8.7058,0.1333
+LORO,Kutai Barat,Kutai Barat,2022,8.7386,mlr_tanpa_pca,8.3804,0.3582
+LORO,Kutai Barat,Kutai Barat,2023,8.2947,mlr_tanpa_pca,8.8561,-0.5614
+LORO,Kutai Barat,Kutai Barat,2024,8.1086,mlr_tanpa_pca,9.3118,-1.2032
+LORO,Kutai Barat,Kutai Barat,2017,8.7075,pca_tanpa_lag,8.6245,0.083
+LORO,Kutai Barat,Kutai Barat,2018,9.1396,pca_tanpa_lag,8.9298,0.2098
+LORO,Kutai Barat,Kutai Barat,2019,9.0878,pca_tanpa_lag,8.1545,0.9333
+LORO,Kutai Barat,Kutai Barat,2020,7.9977,pca_tanpa_lag,8.5502,-0.5525
+LORO,Kutai Barat,Kutai Barat,2021,8.8391,pca_tanpa_lag,8.5291,0.31
+LORO,Kutai Barat,Kutai Barat,2022,8.7386,pca_tanpa_lag,8.2522,0.4864
+LORO,Kutai Barat,Kutai Barat,2023,8.2947,pca_tanpa_lag,7.865,0.4297
+LORO,Kutai Barat,Kutai Barat,2024,8.1086,pca_tanpa_lag,7.8322,0.2764
+LORO,Kutai Barat,Kutai Barat,2017,8.7075,utama,7.9426,0.7649
+LORO,Kutai Barat,Kutai Barat,2018,9.1396,utama,8.7086,0.431
+LORO,Kutai Barat,Kutai Barat,2019,9.0878,utama,7.8744,1.2134
+LORO,Kutai Barat,Kutai Barat,2020,7.9977,utama,8.1409,-0.1432
+LORO,Kutai Barat,Kutai Barat,2021,8.8391,utama,7.9931,0.846
+LORO,Kutai Barat,Kutai Barat,2022,8.7386,utama,7.883,0.8556
+LORO,Kutai Barat,Kutai Barat,2023,8.2947,utama,7.9744,0.3203
+LORO,Kutai Barat,Kutai Barat,2024,8.1086,utama,8.7026,-0.594
+LORO,Kutai Kartanegara,Kutai Kartanegara,2017,7.5216,baseline,6.6706,0.851
+LORO,Kutai Kartanegara,Kutai Kartanegara,2018,7.3521,baseline,6.6706,0.6815
+LORO,Kutai Kartanegara,Kutai Kartanegara,2019,7.167,baseline,6.6706,0.4964
+LORO,Kutai Kartanegara,Kutai Kartanegara,2020,8.0093,baseline,6.6706,1.3387
+LORO,Kutai Kartanegara,Kutai Kartanegara,2021,8.5005,baseline,6.6706,1.8299
+LORO,Kutai Kartanegara,Kutai Kartanegara,2022,8.5167,baseline,6.6706,1.8461
+LORO,Kutai Kartanegara,Kutai Kartanegara,2023,8.0418,baseline,6.6706,1.3712
+LORO,Kutai Kartanegara,Kutai Kartanegara,2024,7.4702,baseline,6.6706,0.7996
+LORO,Kutai Kartanegara,Kutai Kartanegara,2017,7.5216,mlr_tanpa_pca,5.966,1.5556
+LORO,Kutai Kartanegara,Kutai Kartanegara,2018,7.3521,mlr_tanpa_pca,5.8215,1.5306
+LORO,Kutai Kartanegara,Kutai Kartanegara,2019,7.167,mlr_tanpa_pca,5.8302,1.3368
+LORO,Kutai Kartanegara,Kutai Kartanegara,2020,8.0093,mlr_tanpa_pca,6.4211,1.5882
+LORO,Kutai Kartanegara,Kutai Kartanegara,2021,8.5005,mlr_tanpa_pca,5.7409,2.7596
+LORO,Kutai Kartanegara,Kutai Kartanegara,2022,8.5167,mlr_tanpa_pca,5.3208,3.1959
+LORO,Kutai Kartanegara,Kutai Kartanegara,2023,8.0418,mlr_tanpa_pca,4.8326,3.2092
+LORO,Kutai Kartanegara,Kutai Kartanegara,2024,7.4702,mlr_tanpa_pca,4.9007,2.5695
+LORO,Kutai Kartanegara,Kutai Kartanegara,2017,7.5216,pca_tanpa_lag,6.9129,0.6087
+LORO,Kutai Kartanegara,Kutai Kartanegara,2018,7.3521,pca_tanpa_lag,6.943,0.4091
+LORO,Kutai Kartanegara,Kutai Kartanegara,2019,7.167,pca_tanpa_lag,6.8093,0.3577
+LORO,Kutai Kartanegara,Kutai Kartanegara,2020,8.0093,pca_tanpa_lag,6.6032,1.4061
+LORO,Kutai Kartanegara,Kutai Kartanegara,2021,8.5005,pca_tanpa_lag,6.7811,1.7194
+LORO,Kutai Kartanegara,Kutai Kartanegara,2022,8.5167,pca_tanpa_lag,6.564,1.9527
+LORO,Kutai Kartanegara,Kutai Kartanegara,2023,8.0418,pca_tanpa_lag,6.6215,1.4203
+LORO,Kutai Kartanegara,Kutai Kartanegara,2024,7.4702,pca_tanpa_lag,6.6952,0.775
+LORO,Kutai Kartanegara,Kutai Kartanegara,2017,7.5216,utama,6.3289,1.1927
+LORO,Kutai Kartanegara,Kutai Kartanegara,2018,7.3521,utama,6.478,0.8741
+LORO,Kutai Kartanegara,Kutai Kartanegara,2019,7.167,utama,6.4415,0.7255
+LORO,Kutai Kartanegara,Kutai Kartanegara,2020,8.0093,utama,6.3053,1.704
+LORO,Kutai Kartanegara,Kutai Kartanegara,2021,8.5005,utama,6.4164,2.0841
+LORO,Kutai Kartanegara,Kutai Kartanegara,2022,8.5167,utama,6.1449,2.3718
+LORO,Kutai Kartanegara,Kutai Kartanegara,2023,8.0418,utama,6.5118,1.53
+LORO,Kutai Kartanegara,Kutai Kartanegara,2024,7.4702,utama,6.9035,0.5667
+LORO,Kutai Timur,Kutai Timur,2017,9.1942,baseline,6.5865,2.6077
+LORO,Kutai Timur,Kutai Timur,2018,9.1291,baseline,6.5865,2.5426
+LORO,Kutai Timur,Kutai Timur,2019,9.3885,baseline,6.5865,2.802
+LORO,Kutai Timur,Kutai Timur,2020,8.5109,baseline,6.5865,1.9244
+LORO,Kutai Timur,Kutai Timur,2021,8.4105,baseline,6.5865,1.824
+LORO,Kutai Timur,Kutai Timur,2022,7.8584,baseline,6.5865,1.2719
+LORO,Kutai Timur,Kutai Timur,2023,8.1317,baseline,6.5865,1.5452
+LORO,Kutai Timur,Kutai Timur,2024,8.0151,baseline,6.5865,1.4286
+LORO,Kutai Timur,Kutai Timur,2017,9.1942,mlr_tanpa_pca,10.7152,-1.521
+LORO,Kutai Timur,Kutai Timur,2018,9.1291,mlr_tanpa_pca,11.1166,-1.9875
+LORO,Kutai Timur,Kutai Timur,2019,9.3885,mlr_tanpa_pca,9.3771,0.0114
+LORO,Kutai Timur,Kutai Timur,2020,8.5109,mlr_tanpa_pca,10.5838,-2.0729
+LORO,Kutai Timur,Kutai Timur,2021,8.4105,mlr_tanpa_pca,9.907,-1.4965
+LORO,Kutai Timur,Kutai Timur,2022,7.8584,mlr_tanpa_pca,9.702,-1.8436
+LORO,Kutai Timur,Kutai Timur,2023,8.1317,mlr_tanpa_pca,9.3095,-1.1778
+LORO,Kutai Timur,Kutai Timur,2024,8.0151,mlr_tanpa_pca,9.5953,-1.5802
+LORO,Kutai Timur,Kutai Timur,2017,9.1942,pca_tanpa_lag,7.8353,1.3589
+LORO,Kutai Timur,Kutai Timur,2018,9.1291,pca_tanpa_lag,7.4864,1.6427
+LORO,Kutai Timur,Kutai Timur,2019,9.3885,pca_tanpa_lag,5.0429,4.3456
+LORO,Kutai Timur,Kutai Timur,2020,8.5109,pca_tanpa_lag,7.2131,1.2978
+LORO,Kutai Timur,Kutai Timur,2021,8.4105,pca_tanpa_lag,6.9306,1.4799
+LORO,Kutai Timur,Kutai Timur,2022,7.8584,pca_tanpa_lag,6.514,1.3444
+LORO,Kutai Timur,Kutai Timur,2023,8.1317,pca_tanpa_lag,6.165,1.9667
+LORO,Kutai Timur,Kutai Timur,2024,8.0151,pca_tanpa_lag,6.2773,1.7378
+LORO,Kutai Timur,Kutai Timur,2017,9.1942,utama,8.4928,0.7014
+LORO,Kutai Timur,Kutai Timur,2018,9.1291,utama,8.452,0.6771
+LORO,Kutai Timur,Kutai Timur,2019,9.3885,utama,6.5161,2.8724
+LORO,Kutai Timur,Kutai Timur,2020,8.5109,utama,7.9457,0.5652
+LORO,Kutai Timur,Kutai Timur,2021,8.4105,utama,7.3017,1.1088
+LORO,Kutai Timur,Kutai Timur,2022,7.8584,utama,6.9501,0.9083
+LORO,Kutai Timur,Kutai Timur,2023,8.1317,utama,6.7739,1.3578
+LORO,Kutai Timur,Kutai Timur,2024,8.0151,utama,7.3456,0.6695
+LORO,Berau,Berau,2017,5.3762,baseline,6.9741,-1.5979
+LORO,Berau,Berau,2018,5.0022,baseline,6.9741,-1.9719
+LORO,Berau,Berau,2019,5.0022,baseline,6.9741,-1.9719
+LORO,Berau,Berau,2020,4.9597,baseline,6.9741,-2.0144
+LORO,Berau,Berau,2021,5.3919,baseline,6.9741,-1.5822
+LORO,Berau,Berau,2022,5.1489,baseline,6.9741,-1.8252
+LORO,Berau,Berau,2023,5.1336,baseline,6.9741,-1.8405
+LORO,Berau,Berau,2024,4.7173,baseline,6.9741,-2.2568
+LORO,Berau,Berau,2017,5.3762,mlr_tanpa_pca,11.6515,-6.2753
+LORO,Berau,Berau,2018,5.0022,mlr_tanpa_pca,11.269,-6.2668
+LORO,Berau,Berau,2019,5.0022,mlr_tanpa_pca,10.8691,-5.8669
+LORO,Berau,Berau,2020,4.9597,mlr_tanpa_pca,11.7425,-6.7828
+LORO,Berau,Berau,2021,5.3919,mlr_tanpa_pca,11.2792,-5.8873
+LORO,Berau,Berau,2022,5.1489,mlr_tanpa_pca,10.9339,-5.785
+LORO,Berau,Berau,2023,5.1336,mlr_tanpa_pca,10.7093,-5.5757
+LORO,Berau,Berau,2024,4.7173,mlr_tanpa_pca,10.8724,-6.1551
+LORO,Berau,Berau,2017,5.3762,pca_tanpa_lag,7.782,-2.4058
+LORO,Berau,Berau,2018,5.0022,pca_tanpa_lag,7.7442,-2.742
+LORO,Berau,Berau,2019,5.0022,pca_tanpa_lag,7.926,-2.9238
+LORO,Berau,Berau,2020,4.9597,pca_tanpa_lag,7.4873,-2.5276
+LORO,Berau,Berau,2021,5.3919,pca_tanpa_lag,7.1071,-1.7152
+LORO,Berau,Berau,2022,5.1489,pca_tanpa_lag,7.0011,-1.8522
+LORO,Berau,Berau,2023,5.1336,pca_tanpa_lag,6.9504,-1.8168
+LORO,Berau,Berau,2024,4.7173,pca_tanpa_lag,6.9756,-2.2583
+LORO,Berau,Berau,2017,5.3762,utama,7.4798,-2.1036
+LORO,Berau,Berau,2018,5.0022,utama,7.5323,-2.5301
+LORO,Berau,Berau,2019,5.0022,utama,7.6807,-2.6785
+LORO,Berau,Berau,2020,4.9597,utama,7.323,-2.3633
+LORO,Berau,Berau,2021,5.3919,utama,6.8671,-1.4752
+LORO,Berau,Berau,2022,5.1489,utama,6.7933,-1.6444
+LORO,Berau,Berau,2023,5.1336,utama,6.8205,-1.6869
+LORO,Berau,Berau,2024,4.7173,utama,6.9377,-2.2204
+LORO,Penajam Paser Utara,Penajam Paser Utara,2017,7.6094,baseline,6.8237,0.7857
+LORO,Penajam Paser Utara,Penajam Paser Utara,2018,7.3777,baseline,6.8237,0.554
+LORO,Penajam Paser Utara,Penajam Paser Utara,2019,7.1597,baseline,6.8237,0.336
+LORO,Penajam Paser Utara,Penajam Paser Utara,2020,6.676,baseline,6.8237,-0.1477
+LORO,Penajam Paser Utara,Penajam Paser Utara,2021,6.7128,baseline,6.8237,-0.1109
+LORO,Penajam Paser Utara,Penajam Paser Utara,2022,6.3333,baseline,6.8237,-0.4904
+LORO,Penajam Paser Utara,Penajam Paser Utara,2023,5.663,baseline,6.8237,-1.1607
+LORO,Penajam Paser Utara,Penajam Paser Utara,2024,4.0269,baseline,6.8237,-2.7968
+LORO,Penajam Paser Utara,Penajam Paser Utara,2017,7.6094,mlr_tanpa_pca,9.2102,-1.6008
+LORO,Penajam Paser Utara,Penajam Paser Utara,2018,7.3777,mlr_tanpa_pca,9.1462,-1.7685
+LORO,Penajam Paser Utara,Penajam Paser Utara,2019,7.1597,mlr_tanpa_pca,9.0336,-1.8739
+LORO,Penajam Paser Utara,Penajam Paser Utara,2020,6.676,mlr_tanpa_pca,9.8161,-3.1401
+LORO,Penajam Paser Utara,Penajam Paser Utara,2021,6.7128,mlr_tanpa_pca,8.8408,-2.128
+LORO,Penajam Paser Utara,Penajam Paser Utara,2022,6.3333,mlr_tanpa_pca,8.9132,-2.5799
+LORO,Penajam Paser Utara,Penajam Paser Utara,2023,5.663,mlr_tanpa_pca,8.775,-3.112
+LORO,Penajam Paser Utara,Penajam Paser Utara,2024,4.0269,mlr_tanpa_pca,9.2282,-5.2013
+LORO,Penajam Paser Utara,Penajam Paser Utara,2017,7.6094,pca_tanpa_lag,9.0341,-1.4247
+LORO,Penajam Paser Utara,Penajam Paser Utara,2018,7.3777,pca_tanpa_lag,8.9727,-1.595
+LORO,Penajam Paser Utara,Penajam Paser Utara,2019,7.1597,pca_tanpa_lag,8.3725,-1.2128
+LORO,Penajam Paser Utara,Penajam Paser Utara,2020,6.676,pca_tanpa_lag,8.5477,-1.8717
+LORO,Penajam Paser Utara,Penajam Paser Utara,2021,6.7128,pca_tanpa_lag,8.9004,-2.1876
+LORO,Penajam Paser Utara,Penajam Paser Utara,2022,6.3333,pca_tanpa_lag,8.9444,-2.6111
+LORO,Penajam Paser Utara,Penajam Paser Utara,2023,5.663,pca_tanpa_lag,8.4652,-2.8022
+LORO,Penajam Paser Utara,Penajam Paser Utara,2024,4.0269,pca_tanpa_lag,8.4589,-4.432
+LORO,Penajam Paser Utara,Penajam Paser Utara,2017,7.6094,utama,8.5753,-0.9659
+LORO,Penajam Paser Utara,Penajam Paser Utara,2018,7.3777,utama,8.6696,-1.2919
+LORO,Penajam Paser Utara,Penajam Paser Utara,2019,7.1597,utama,8.0229,-0.8632
+LORO,Penajam Paser Utara,Penajam Paser Utara,2020,6.676,utama,8.4084,-1.7324
+LORO,Penajam Paser Utara,Penajam Paser Utara,2021,6.7128,utama,8.494,-1.7812
+LORO,Penajam Paser Utara,Penajam Paser Utara,2022,6.3333,utama,8.871,-2.5377
+LORO,Penajam Paser Utara,Penajam Paser Utara,2023,5.663,utama,8.5596,-2.8966
+LORO,Penajam Paser Utara,Penajam Paser Utara,2024,4.0269,utama,9.066,-5.0391
+LORO,Mahakam Ulu,Mahakam Ulu,2017,11.673,baseline,6.393,5.28
+LORO,Mahakam Ulu,Mahakam Ulu,2018,12.3574,baseline,6.393,5.9644
+LORO,Mahakam Ulu,Mahakam Ulu,2019,12.0833,baseline,6.393,5.6903
+LORO,Mahakam Ulu,Mahakam Ulu,2020,10.0308,baseline,6.393,3.6378
+LORO,Mahakam Ulu,Mahakam Ulu,2021,9.6364,baseline,6.393,3.2434
+LORO,Mahakam Ulu,Mahakam Ulu,2022,9.2537,baseline,6.393,2.8607
+LORO,Mahakam Ulu,Mahakam Ulu,2023,9.0533,baseline,6.393,2.6603
+LORO,Mahakam Ulu,Mahakam Ulu,2024,8.4795,baseline,6.393,2.0865
+LORO,Mahakam Ulu,Mahakam Ulu,2017,11.673,mlr_tanpa_pca,7.213,4.46
+LORO,Mahakam Ulu,Mahakam Ulu,2018,12.3574,mlr_tanpa_pca,6.0104,6.347
+LORO,Mahakam Ulu,Mahakam Ulu,2019,12.0833,mlr_tanpa_pca,7.0627,5.0206
+LORO,Mahakam Ulu,Mahakam Ulu,2020,10.0308,mlr_tanpa_pca,7.2523,2.7785
+LORO,Mahakam Ulu,Mahakam Ulu,2021,9.6364,mlr_tanpa_pca,7.2421,2.3943
+LORO,Mahakam Ulu,Mahakam Ulu,2022,9.2537,mlr_tanpa_pca,7.6202,1.6335
+LORO,Mahakam Ulu,Mahakam Ulu,2023,9.0533,mlr_tanpa_pca,7.2267,1.8266
+LORO,Mahakam Ulu,Mahakam Ulu,2024,8.4795,mlr_tanpa_pca,8.475,0.0045
+LORO,Mahakam Ulu,Mahakam Ulu,2017,11.673,pca_tanpa_lag,9.4138,2.2592
+LORO,Mahakam Ulu,Mahakam Ulu,2018,12.3574,pca_tanpa_lag,10.0024,2.355
+LORO,Mahakam Ulu,Mahakam Ulu,2019,12.0833,pca_tanpa_lag,9.6112,2.4721
+LORO,Mahakam Ulu,Mahakam Ulu,2020,10.0308,pca_tanpa_lag,9.8281,0.2027
+LORO,Mahakam Ulu,Mahakam Ulu,2021,9.6364,pca_tanpa_lag,9.7162,-0.0798
+LORO,Mahakam Ulu,Mahakam Ulu,2022,9.2537,pca_tanpa_lag,9.5341,-0.2804
+LORO,Mahakam Ulu,Mahakam Ulu,2023,9.0533,pca_tanpa_lag,9.1602,-0.1069
+LORO,Mahakam Ulu,Mahakam Ulu,2024,8.4795,pca_tanpa_lag,8.751,-0.2715
+LORO,Mahakam Ulu,Mahakam Ulu,2017,11.673,utama,6.8504,4.8226
+LORO,Mahakam Ulu,Mahakam Ulu,2018,12.3574,utama,7.2098,5.1476
+LORO,Mahakam Ulu,Mahakam Ulu,2019,12.0833,utama,7.1599,4.9234
+LORO,Mahakam Ulu,Mahakam Ulu,2020,10.0308,utama,7.5577,2.4731
+LORO,Mahakam Ulu,Mahakam Ulu,2021,9.6364,utama,7.1596,2.4768
+LORO,Mahakam Ulu,Mahakam Ulu,2022,9.2537,utama,7.4017,1.852
+LORO,Mahakam Ulu,Mahakam Ulu,2023,9.0533,utama,7.162,1.8913
+LORO,Mahakam Ulu,Mahakam Ulu,2024,8.4795,utama,7.6459,0.8336
+LORO,Balikpapan,Balikpapan,2017,2.8082,baseline,7.2707,-4.4625
+LORO,Balikpapan,Balikpapan,2018,2.6344,baseline,7.2707,-4.6363
+LORO,Balikpapan,Balikpapan,2019,2.4084,baseline,7.2707,-4.8623
+LORO,Balikpapan,Balikpapan,2020,2.4728,baseline,7.2707,-4.7979
+LORO,Balikpapan,Balikpapan,2021,2.665,baseline,7.2707,-4.6057
+LORO,Balikpapan,Balikpapan,2022,2.2499,baseline,7.2707,-5.0208
+LORO,Balikpapan,Balikpapan,2023,2.1113,baseline,7.2707,-5.1594
+LORO,Balikpapan,Balikpapan,2024,2.0259,baseline,7.2707,-5.2448
+LORO,Balikpapan,Balikpapan,2017,2.8082,mlr_tanpa_pca,6.0195,-3.2113
+LORO,Balikpapan,Balikpapan,2018,2.6344,mlr_tanpa_pca,5.6104,-2.976
+LORO,Balikpapan,Balikpapan,2019,2.4084,mlr_tanpa_pca,5.1738,-2.7654
+LORO,Balikpapan,Balikpapan,2020,2.4728,mlr_tanpa_pca,5.7713,-3.2985
+LORO,Balikpapan,Balikpapan,2021,2.665,mlr_tanpa_pca,5.2178,-2.5528
+LORO,Balikpapan,Balikpapan,2022,2.2499,mlr_tanpa_pca,4.745,-2.4951
+LORO,Balikpapan,Balikpapan,2023,2.1113,mlr_tanpa_pca,4.6961,-2.5848
+LORO,Balikpapan,Balikpapan,2024,2.0259,mlr_tanpa_pca,5.1129,-3.087
+LORO,Balikpapan,Balikpapan,2017,2.8082,pca_tanpa_lag,4.7134,-1.9052
+LORO,Balikpapan,Balikpapan,2018,2.6344,pca_tanpa_lag,4.7238,-2.0894
+LORO,Balikpapan,Balikpapan,2019,2.4084,pca_tanpa_lag,5.1053,-2.6969
+LORO,Balikpapan,Balikpapan,2020,2.4728,pca_tanpa_lag,4.684,-2.2112
+LORO,Balikpapan,Balikpapan,2021,2.665,pca_tanpa_lag,4.47,-1.805
+LORO,Balikpapan,Balikpapan,2022,2.2499,pca_tanpa_lag,4.9249,-2.675
+LORO,Balikpapan,Balikpapan,2023,2.1113,pca_tanpa_lag,4.7272,-2.6159
+LORO,Balikpapan,Balikpapan,2024,2.0259,pca_tanpa_lag,4.9004,-2.8745
+LORO,Balikpapan,Balikpapan,2017,2.8082,utama,3.9931,-1.1849
+LORO,Balikpapan,Balikpapan,2018,2.6344,utama,4.0772,-1.4428
+LORO,Balikpapan,Balikpapan,2019,2.4084,utama,4.4882,-2.0798
+LORO,Balikpapan,Balikpapan,2020,2.4728,utama,3.8923,-1.4195
+LORO,Balikpapan,Balikpapan,2021,2.665,utama,3.5742,-0.9092
+LORO,Balikpapan,Balikpapan,2022,2.2499,utama,4.4262,-2.1763
+LORO,Balikpapan,Balikpapan,2023,2.1113,utama,4.3732,-2.2619
+LORO,Balikpapan,Balikpapan,2024,2.0259,utama,5.4608,-3.4349
+LORO,Samarinda,Samarinda,2017,4.7433,baseline,7.0058,-2.2625
+LORO,Samarinda,Samarinda,2018,4.5717,baseline,7.0058,-2.4341
+LORO,Samarinda,Samarinda,2019,4.56,baseline,7.0058,-2.4458
+LORO,Samarinda,Samarinda,2020,5.0628,baseline,7.0058,-1.943
+LORO,Samarinda,Samarinda,2021,5.1552,baseline,7.0058,-1.8506
+LORO,Samarinda,Samarinda,2022,5.0252,baseline,7.0058,-1.9806
+LORO,Samarinda,Samarinda,2023,4.9248,baseline,7.0058,-2.081
+LORO,Samarinda,Samarinda,2024,4.4051,baseline,7.0058,-2.6007
+LORO,Samarinda,Samarinda,2017,4.7433,mlr_tanpa_pca,4.8019,-0.0586
+LORO,Samarinda,Samarinda,2018,4.5717,mlr_tanpa_pca,4.9916,-0.4199
+LORO,Samarinda,Samarinda,2019,4.56,mlr_tanpa_pca,4.2181,0.3419
+LORO,Samarinda,Samarinda,2020,5.0628,mlr_tanpa_pca,5.0702,-0.0074
+LORO,Samarinda,Samarinda,2021,5.1552,mlr_tanpa_pca,4.5573,0.5979
+LORO,Samarinda,Samarinda,2022,5.0252,mlr_tanpa_pca,3.7295,1.2957
+LORO,Samarinda,Samarinda,2023,4.9248,mlr_tanpa_pca,3.3001,1.6247
+LORO,Samarinda,Samarinda,2024,4.4051,mlr_tanpa_pca,2.7633,1.6418
+LORO,Samarinda,Samarinda,2017,4.7433,pca_tanpa_lag,4.2614,0.4819
+LORO,Samarinda,Samarinda,2018,4.5717,pca_tanpa_lag,3.984,0.5877
+LORO,Samarinda,Samarinda,2019,4.56,pca_tanpa_lag,3.829,0.731
+LORO,Samarinda,Samarinda,2020,5.0628,pca_tanpa_lag,3.6291,1.4337
+LORO,Samarinda,Samarinda,2021,5.1552,pca_tanpa_lag,3.3765,1.7787
+LORO,Samarinda,Samarinda,2022,5.0252,pca_tanpa_lag,3.0748,1.9504
+LORO,Samarinda,Samarinda,2023,4.9248,pca_tanpa_lag,3.0992,1.8256
+LORO,Samarinda,Samarinda,2024,4.4051,pca_tanpa_lag,2.6346,1.7705
+LORO,Samarinda,Samarinda,2017,4.7433,utama,5.3028,-0.5595
+LORO,Samarinda,Samarinda,2018,4.5717,utama,5.0789,-0.5072
+LORO,Samarinda,Samarinda,2019,4.56,utama,5.0971,-0.5371
+LORO,Samarinda,Samarinda,2020,5.0628,utama,5.0555,0.0073
+LORO,Samarinda,Samarinda,2021,5.1552,utama,4.6766,0.4786
+LORO,Samarinda,Samarinda,2022,5.0252,utama,4.4481,0.5771
+LORO,Samarinda,Samarinda,2023,4.9248,utama,4.6436,0.2812
+LORO,Samarinda,Samarinda,2024,4.4051,utama,4.2377,0.1674
+LORO,Bontang,Bontang,2017,5.129,baseline,7.046,-1.917
+LORO,Bontang,Bontang,2018,4.6498,baseline,7.046,-2.3962
+LORO,Bontang,Bontang,2019,4.1981,baseline,7.046,-2.8479
+LORO,Bontang,Bontang,2020,4.4215,baseline,7.046,-2.6245
+LORO,Bontang,Bontang,2021,4.6515,baseline,7.046,-2.3945
+LORO,Bontang,Bontang,2022,4.5797,baseline,7.046,-2.4663
+LORO,Bontang,Bontang,2023,4.1496,baseline,7.046,-2.8964
+LORO,Bontang,Bontang,2024,3.7759,baseline,7.046,-3.2701
+LORO,Bontang,Bontang,2017,5.129,mlr_tanpa_pca,-1.7617,6.8907
+LORO,Bontang,Bontang,2018,4.6498,mlr_tanpa_pca,-1.6509,6.3007
+LORO,Bontang,Bontang,2019,4.1981,mlr_tanpa_pca,-2.1302,6.3283
+LORO,Bontang,Bontang,2020,4.4215,mlr_tanpa_pca,-0.1301,4.5516
+LORO,Bontang,Bontang,2021,4.6515,mlr_tanpa_pca,-1.5724,6.2239
+LORO,Bontang,Bontang,2022,4.5797,mlr_tanpa_pca,-2.2549,6.8346
+LORO,Bontang,Bontang,2023,4.1496,mlr_tanpa_pca,-2.699,6.8486
+LORO,Bontang,Bontang,2024,3.7759,mlr_tanpa_pca,-3.1982,6.9741
+LORO,Bontang,Bontang,2017,5.129,pca_tanpa_lag,5.2398,-0.1108
+LORO,Bontang,Bontang,2018,4.6498,pca_tanpa_lag,4.3047,0.3451
+LORO,Bontang,Bontang,2019,4.1981,pca_tanpa_lag,4.9144,-0.7163
+LORO,Bontang,Bontang,2020,4.4215,pca_tanpa_lag,3.8237,0.5978
+LORO,Bontang,Bontang,2021,4.6515,pca_tanpa_lag,3.9919,0.6596
+LORO,Bontang,Bontang,2022,4.5797,pca_tanpa_lag,3.9705,0.6092
+LORO,Bontang,Bontang,2023,4.1496,pca_tanpa_lag,3.5017,0.6479
+LORO,Bontang,Bontang,2024,3.7759,pca_tanpa_lag,2.5864,1.1895
+LORO,Bontang,Bontang,2017,5.129,utama,6.6166,-1.4876
+LORO,Bontang,Bontang,2018,4.6498,utama,5.4518,-0.802
+LORO,Bontang,Bontang,2019,4.1981,utama,6.19,-1.9919
+LORO,Bontang,Bontang,2020,4.4215,utama,5.1095,-0.688
+LORO,Bontang,Bontang,2021,4.6515,utama,4.9722,-0.3207
+LORO,Bontang,Bontang,2022,4.5797,utama,5.0293,-0.4496
+LORO,Bontang,Bontang,2023,4.1496,utama,4.4926,-0.343
+LORO,Bontang,Bontang,2024,3.7759,utama,3.687,0.0889
+Waktu,2023-2024,Paser,2023,9.289,baseline,6.9706,2.3184
+Waktu,2023-2024,Paser,2024,8.8084,baseline,6.9706,1.8378
+Waktu,2023-2024,Kutai Barat,2023,8.2947,baseline,6.9706,1.3241
+Waktu,2023-2024,Kutai Barat,2024,8.1086,baseline,6.9706,1.138
+Waktu,2023-2024,Kutai Kartanegara,2023,8.0418,baseline,6.9706,1.0712
+Waktu,2023-2024,Kutai Kartanegara,2024,7.4702,baseline,6.9706,0.4996
+Waktu,2023-2024,Kutai Timur,2023,8.1317,baseline,6.9706,1.1611
+Waktu,2023-2024,Kutai Timur,2024,8.0151,baseline,6.9706,1.0445
+Waktu,2023-2024,Berau,2023,5.1336,baseline,6.9706,-1.837
+Waktu,2023-2024,Berau,2024,4.7173,baseline,6.9706,-2.2533
+Waktu,2023-2024,Penajam Paser Utara,2023,5.663,baseline,6.9706,-1.3076
+Waktu,2023-2024,Penajam Paser Utara,2024,4.0269,baseline,6.9706,-2.9437
+Waktu,2023-2024,Mahakam Ulu,2023,9.0533,baseline,6.9706,2.0827
+Waktu,2023-2024,Mahakam Ulu,2024,8.4795,baseline,6.9706,1.5089
+Waktu,2023-2024,Balikpapan,2023,2.1113,baseline,6.9706,-4.8593
+Waktu,2023-2024,Balikpapan,2024,2.0259,baseline,6.9706,-4.9447
+Waktu,2023-2024,Samarinda,2023,4.9248,baseline,6.9706,-2.0458
+Waktu,2023-2024,Samarinda,2024,4.4051,baseline,6.9706,-2.5655
+Waktu,2023-2024,Bontang,2023,4.1496,baseline,6.9706,-2.821
+Waktu,2023-2024,Bontang,2024,3.7759,baseline,6.9706,-3.1947
+Waktu,2023-2024,Paser,2023,9.289,mlr_tanpa_pca,9.6668,-0.3778
+Waktu,2023-2024,Paser,2024,8.8084,mlr_tanpa_pca,9.9382,-1.1298
+Waktu,2023-2024,Kutai Barat,2023,8.2947,mlr_tanpa_pca,9.7095,-1.4148
+Waktu,2023-2024,Kutai Barat,2024,8.1086,mlr_tanpa_pca,10.1527,-2.0441
+Waktu,2023-2024,Kutai Kartanegara,2023,8.0418,mlr_tanpa_pca,7.8107,0.2311
+Waktu,2023-2024,Kutai Kartanegara,2024,7.4702,mlr_tanpa_pca,9.6861,-2.2159
+Waktu,2023-2024,Kutai Timur,2023,8.1317,mlr_tanpa_pca,7.769,0.3627
+Waktu,2023-2024,Kutai Timur,2024,8.0151,mlr_tanpa_pca,8.4164,-0.4013
+Waktu,2023-2024,Berau,2023,5.1336,mlr_tanpa_pca,5.8315,-0.6979
+Waktu,2023-2024,Berau,2024,4.7173,mlr_tanpa_pca,6.8548,-2.1375
+Waktu,2023-2024,Penajam Paser Utara,2023,5.663,mlr_tanpa_pca,6.3365,-0.6735
+Waktu,2023-2024,Penajam Paser Utara,2024,4.0269,mlr_tanpa_pca,7.0174,-2.9905
+Waktu,2023-2024,Mahakam Ulu,2023,9.0533,mlr_tanpa_pca,10.2279,-1.1746
+Waktu,2023-2024,Mahakam Ulu,2024,8.4795,mlr_tanpa_pca,9.7555,-1.276
+Waktu,2023-2024,Balikpapan,2023,2.1113,mlr_tanpa_pca,2.8052,-0.6939
+Waktu,2023-2024,Balikpapan,2024,2.0259,mlr_tanpa_pca,3.6075,-1.5816
+Waktu,2023-2024,Samarinda,2023,4.9248,mlr_tanpa_pca,3.4941,1.4307
+Waktu,2023-2024,Samarinda,2024,4.4051,mlr_tanpa_pca,2.068,2.3371
+Waktu,2023-2024,Bontang,2023,4.1496,mlr_tanpa_pca,3.6484,0.5012
+Waktu,2023-2024,Bontang,2024,3.7759,mlr_tanpa_pca,2.1022,1.6737
+Waktu,2023-2024,Paser,2023,9.289,pca_tanpa_lag,7.4827,1.8063
+Waktu,2023-2024,Paser,2024,8.8084,pca_tanpa_lag,7.8122,0.9962
+Waktu,2023-2024,Kutai Barat,2023,8.2947,pca_tanpa_lag,8.0855,0.2092
+Waktu,2023-2024,Kutai Barat,2024,8.1086,pca_tanpa_lag,8.0774,0.0312
+Waktu,2023-2024,Kutai Kartanegara,2023,8.0418,pca_tanpa_lag,6.8848,1.157
+Waktu,2023-2024,Kutai Kartanegara,2024,7.4702,pca_tanpa_lag,7.0178,0.4524
+Waktu,2023-2024,Kutai Timur,2023,8.1317,pca_tanpa_lag,6.37,1.7617
+Waktu,2023-2024,Kutai Timur,2024,8.0151,pca_tanpa_lag,6.4751,1.54
+Waktu,2023-2024,Berau,2023,5.1336,pca_tanpa_lag,6.5977,-1.4641
+Waktu,2023-2024,Berau,2024,4.7173,pca_tanpa_lag,6.6995,-1.9822
+Waktu,2023-2024,Penajam Paser Utara,2023,5.663,pca_tanpa_lag,7.8398,-2.1768
+Waktu,2023-2024,Penajam Paser Utara,2024,4.0269,pca_tanpa_lag,8.1845,-4.1576
+Waktu,2023-2024,Mahakam Ulu,2023,9.0533,pca_tanpa_lag,10.662,-1.6087
+Waktu,2023-2024,Mahakam Ulu,2024,8.4795,pca_tanpa_lag,9.9408,-1.4613
+Waktu,2023-2024,Balikpapan,2023,2.1113,pca_tanpa_lag,3.6849,-1.5736
+Waktu,2023-2024,Balikpapan,2024,2.0259,pca_tanpa_lag,3.7673,-1.7414
+Waktu,2023-2024,Samarinda,2023,4.9248,pca_tanpa_lag,3.7665,1.1583
+Waktu,2023-2024,Samarinda,2024,4.4051,pca_tanpa_lag,3.2145,1.1906
+Waktu,2023-2024,Bontang,2023,4.1496,pca_tanpa_lag,3.7464,0.4032
+Waktu,2023-2024,Bontang,2024,3.7759,pca_tanpa_lag,3.2355,0.5404
+Waktu,2023-2024,Paser,2023,9.289,utama,8.5502,0.7388
+Waktu,2023-2024,Paser,2024,8.8084,utama,9.1345,-0.3261
+Waktu,2023-2024,Kutai Barat,2023,8.2947,utama,8.3935,-0.0988
+Waktu,2023-2024,Kutai Barat,2024,8.1086,utama,8.4552,-0.3466
+Waktu,2023-2024,Kutai Kartanegara,2023,8.0418,utama,6.7274,1.3144
+Waktu,2023-2024,Kutai Kartanegara,2024,7.4702,utama,7.0615,0.4087
+Waktu,2023-2024,Kutai Timur,2023,8.1317,utama,6.7684,1.3633
+Waktu,2023-2024,Kutai Timur,2024,8.0151,utama,6.9599,1.0552
+Waktu,2023-2024,Berau,2023,5.1336,utama,6.3216,-1.188
+Waktu,2023-2024,Berau,2024,4.7173,utama,6.5645,-1.8472
+Waktu,2023-2024,Penajam Paser Utara,2023,5.663,utama,7.7056,-2.0426
+Waktu,2023-2024,Penajam Paser Utara,2024,4.0269,utama,8.2749,-4.248
+Waktu,2023-2024,Mahakam Ulu,2023,9.0533,utama,10.6233,-1.57
+Waktu,2023-2024,Mahakam Ulu,2024,8.4795,utama,9.6247,-1.1452
+Waktu,2023-2024,Balikpapan,2023,2.1113,utama,2.7826,-0.6713
+Waktu,2023-2024,Balikpapan,2024,2.0259,utama,3.11,-1.0841
+Waktu,2023-2024,Samarinda,2023,4.9248,utama,4.9051,0.0197
+Waktu,2023-2024,Samarinda,2024,4.4051,utama,4.1585,0.2466
+Waktu,2023-2024,Bontang,2023,4.1496,utama,4.1259,0.0237
+Waktu,2023-2024,Bontang,2024,3.7759,utama,3.4255,0.3504
+LORO,Paser,Paser,2017,9.2268,knn_spasial,6.278,2.9488
+LORO,Paser,Paser,2018,8.9786,knn_spasial,6.2151,2.7635
+LORO,Paser,Paser,2019,8.9017,knn_spasial,6.0766,2.8251
+LORO,Paser,Paser,2020,9.7169,knn_spasial,6.0437,3.6732
+LORO,Paser,Paser,2021,9.928,knn_spasial,6.3745,3.5535
+LORO,Paser,Paser,2022,9.6466,knn_spasial,6.1727,3.4739
+LORO,Paser,Paser,2023,9.289,knn_spasial,5.8071,3.4819
+LORO,Paser,Paser,2024,8.8084,knn_spasial,5.2073,3.6011
+LORO,Paser,Paser,2017,9.2268,knn_pca,7.7397,1.4871
+LORO,Paser,Paser,2018,8.9786,knn_pca,8.6329,0.3457
+LORO,Paser,Paser,2019,8.9017,knn_pca,6.321,2.5807
+LORO,Paser,Paser,2020,9.7169,knn_pca,8.9184,0.7985
+LORO,Paser,Paser,2021,9.928,knn_pca,8.5922,1.3358
+LORO,Paser,Paser,2022,9.6466,knn_pca,8.0946,1.5519
+LORO,Paser,Paser,2023,9.289,knn_pca,8.2671,1.0219
+LORO,Paser,Paser,2024,8.8084,knn_pca,8.5574,0.251
+LORO,Kutai Barat,Kutai Barat,2017,8.7075,knn_spasial,6.7915,1.916
+LORO,Kutai Barat,Kutai Barat,2018,9.1396,knn_spasial,6.5857,2.5539
+LORO,Kutai Barat,Kutai Barat,2019,9.0878,knn_spasial,6.4092,2.6786
+LORO,Kutai Barat,Kutai Barat,2020,7.9977,knn_spasial,6.7188,1.279
+LORO,Kutai Barat,Kutai Barat,2021,8.8391,knn_spasial,6.9516,1.8875
+LORO,Kutai Barat,Kutai Barat,2022,8.7386,knn_spasial,6.6866,2.052
+LORO,Kutai Barat,Kutai Barat,2023,8.2947,knn_spasial,6.2763,2.0184
+LORO,Kutai Barat,Kutai Barat,2024,8.1086,knn_spasial,5.5829,2.5257
+LORO,Kutai Barat,Kutai Barat,2017,8.7075,knn_pca,8.1937,0.5138
+LORO,Kutai Barat,Kutai Barat,2018,9.1396,knn_pca,9.7024,-0.5628
+LORO,Kutai Barat,Kutai Barat,2019,9.0878,knn_pca,9.3252,-0.2374
+LORO,Kutai Barat,Kutai Barat,2020,7.9977,knn_pca,9.1654,-1.1677
+LORO,Kutai Barat,Kutai Barat,2021,8.8391,knn_pca,9.1773,-0.3382
+LORO,Kutai Barat,Kutai Barat,2022,8.7386,knn_pca,9.3122,-0.5736
+LORO,Kutai Barat,Kutai Barat,2023,8.2947,knn_pca,8.4298,-0.1351
+LORO,Kutai Barat,Kutai Barat,2024,8.1086,knn_pca,8.4298,-0.3212
+LORO,Kutai Kartanegara,Kutai Kartanegara,2017,7.5216,knn_spasial,6.1933,1.3283
+LORO,Kutai Kartanegara,Kutai Kartanegara,2018,7.3521,knn_spasial,6.1204,1.2317
+LORO,Kutai Kartanegara,Kutai Kartanegara,2019,7.167,knn_spasial,5.9486,1.2184
+LORO,Kutai Kartanegara,Kutai Kartanegara,2020,8.0093,knn_spasial,5.8273,2.182
+LORO,Kutai Kartanegara,Kutai Kartanegara,2021,8.5005,knn_spasial,6.2153,2.2852
+LORO,Kutai Kartanegara,Kutai Kartanegara,2022,8.5167,knn_spasial,6.1145,2.4022
+LORO,Kutai Kartanegara,Kutai Kartanegara,2023,8.0418,knn_spasial,5.7897,2.2521
+LORO,Kutai Kartanegara,Kutai Kartanegara,2024,7.4702,knn_spasial,5.4299,2.0403
+LORO,Kutai Kartanegara,Kutai Kartanegara,2017,7.5216,knn_pca,9.3875,-1.8659
+LORO,Kutai Kartanegara,Kutai Kartanegara,2018,7.3521,knn_pca,9.3875,-2.0354
+LORO,Kutai Kartanegara,Kutai Kartanegara,2019,7.167,knn_pca,7.731,-0.564
+LORO,Kutai Kartanegara,Kutai Kartanegara,2020,8.0093,knn_pca,9.6212,-1.6119
+LORO,Kutai Kartanegara,Kutai Kartanegara,2021,8.5005,knn_pca,9.6212,-1.1207
+LORO,Kutai Kartanegara,Kutai Kartanegara,2022,8.5167,knn_pca,9.6212,-1.1045
+LORO,Kutai Kartanegara,Kutai Kartanegara,2023,8.0418,knn_pca,9.6212,-1.5794
+LORO,Kutai Kartanegara,Kutai Kartanegara,2024,7.4702,knn_pca,9.6212,-2.151
+LORO,Kutai Timur,Kutai Timur,2017,9.1942,knn_spasial,5.3762,3.818
+LORO,Kutai Timur,Kutai Timur,2018,9.1291,knn_spasial,5.0022,4.1269
+LORO,Kutai Timur,Kutai Timur,2019,9.3885,knn_spasial,5.0022,4.3863
+LORO,Kutai Timur,Kutai Timur,2020,8.5109,knn_spasial,4.9597,3.5512
+LORO,Kutai Timur,Kutai Timur,2021,8.4105,knn_spasial,5.3919,3.0186
+LORO,Kutai Timur,Kutai Timur,2022,7.8584,knn_spasial,5.1489,2.7095
+LORO,Kutai Timur,Kutai Timur,2023,8.1317,knn_spasial,5.1336,2.9981
+LORO,Kutai Timur,Kutai Timur,2024,8.0151,knn_spasial,4.7173,3.2978
+LORO,Kutai Timur,Kutai Timur,2017,9.1942,knn_pca,6.1306,3.0636
+LORO,Kutai Timur,Kutai Timur,2018,9.1291,knn_pca,6.2149,2.9142
+LORO,Kutai Timur,Kutai Timur,2019,9.3885,knn_pca,6.4857,2.9028
+LORO,Kutai Timur,Kutai Timur,2020,8.5109,knn_pca,5.6937,2.8172
+LORO,Kutai Timur,Kutai Timur,2021,8.4105,knn_pca,4.9029,3.5076
+LORO,Kutai Timur,Kutai Timur,2022,7.8584,knn_pca,5.1273,2.7311
+LORO,Kutai Timur,Kutai Timur,2023,8.1317,knn_pca,5.0703,3.0614
+LORO,Kutai Timur,Kutai Timur,2024,8.0151,knn_pca,5.0703,2.9448
+LORO,Berau,Berau,2017,5.3762,knn_spasial,7.1616,-1.7854
+LORO,Berau,Berau,2018,5.0022,knn_spasial,6.8895,-1.8872
+LORO,Berau,Berau,2019,5.0022,knn_spasial,6.7933,-1.7911
+LORO,Berau,Berau,2020,4.9597,knn_spasial,6.4662,-1.5065
+LORO,Berau,Berau,2021,5.3919,knn_spasial,6.531,-1.1391
+LORO,Berau,Berau,2022,5.1489,knn_spasial,6.219,-1.0701
+LORO,Berau,Berau,2023,5.1336,knn_spasial,6.1407,-1.0071
+LORO,Berau,Berau,2024,4.7173,knn_spasial,5.8955,-1.1782
+LORO,Berau,Berau,2017,5.3762,knn_pca,7.0263,-1.6501
+LORO,Berau,Berau,2018,5.0022,knn_pca,7.5789,-2.5767
+LORO,Berau,Berau,2019,5.0022,knn_pca,8.3653,-3.3631
+LORO,Berau,Berau,2020,4.9597,knn_pca,8.1853,-3.2256
+LORO,Berau,Berau,2021,5.3919,knn_pca,8.4687,-3.0768
+LORO,Berau,Berau,2022,5.1489,knn_pca,8.4687,-3.3198
+LORO,Berau,Berau,2023,5.1336,knn_pca,8.2448,-3.1112
+LORO,Berau,Berau,2024,4.7173,knn_pca,8.2448,-3.5275
+LORO,Penajam Paser Utara,Penajam Paser Utara,2017,7.6094,knn_spasial,6.3715,1.2379
+LORO,Penajam Paser Utara,Penajam Paser Utara,2018,7.3777,knn_spasial,6.3311,1.0466
+LORO,Penajam Paser Utara,Penajam Paser Utara,2019,7.1597,knn_spasial,6.2395,0.9202
+LORO,Penajam Paser Utara,Penajam Paser Utara,2020,6.676,knn_spasial,6.3125,0.3635
+LORO,Penajam Paser Utara,Penajam Paser Utara,2021,6.7128,knn_spasial,6.6468,0.066
+LORO,Penajam Paser Utara,Penajam Paser Utara,2022,6.3333,knn_spasial,6.4151,-0.0818
+LORO,Penajam Paser Utara,Penajam Paser Utara,2023,5.663,knn_spasial,6.1549,-0.4919
+LORO,Penajam Paser Utara,Penajam Paser Utara,2024,4.0269,knn_spasial,5.837,-1.8101
+LORO,Penajam Paser Utara,Penajam Paser Utara,2017,7.6094,knn_pca,7.5014,0.108
+LORO,Penajam Paser Utara,Penajam Paser Utara,2018,7.3777,knn_pca,8.2219,-0.8442
+LORO,Penajam Paser Utara,Penajam Paser Utara,2019,7.1597,knn_pca,7.4425,-0.2828
+LORO,Penajam Paser Utara,Penajam Paser Utara,2020,6.676,knn_pca,8.8233,-2.1473
+LORO,Penajam Paser Utara,Penajam Paser Utara,2021,6.7128,knn_pca,8.7997,-2.0869
+LORO,Penajam Paser Utara,Penajam Paser Utara,2022,6.3333,knn_pca,8.7822,-2.4489
+LORO,Penajam Paser Utara,Penajam Paser Utara,2023,5.663,knn_pca,9.2838,-3.6208
+LORO,Penajam Paser Utara,Penajam Paser Utara,2024,4.0269,knn_pca,8.5916,-4.5647
+LORO,Mahakam Ulu,Mahakam Ulu,2017,11.673,knn_spasial,7.5552,4.1178
+LORO,Mahakam Ulu,Mahakam Ulu,2018,12.3574,knn_spasial,7.514,4.8434
+LORO,Mahakam Ulu,Mahakam Ulu,2019,12.0833,knn_spasial,7.4726,4.6107
+LORO,Mahakam Ulu,Mahakam Ulu,2020,10.0308,knn_spasial,7.2513,2.7795
+LORO,Mahakam Ulu,Mahakam Ulu,2021,9.6364,knn_spasial,7.5236,2.1128
+LORO,Mahakam Ulu,Mahakam Ulu,2022,9.2537,knn_spasial,7.2944,1.9593
+LORO,Mahakam Ulu,Mahakam Ulu,2023,9.0533,knn_spasial,7.0112,2.0421
+LORO,Mahakam Ulu,Mahakam Ulu,2024,8.4795,knn_spasial,6.4052,2.0743
+LORO,Mahakam Ulu,Mahakam Ulu,2017,11.673,knn_pca,8.6787,2.9943
+LORO,Mahakam Ulu,Mahakam Ulu,2018,12.3574,knn_pca,8.6787,3.6787
+LORO,Mahakam Ulu,Mahakam Ulu,2019,12.0833,knn_pca,8.6788,3.4045
+LORO,Mahakam Ulu,Mahakam Ulu,2020,10.0308,knn_pca,8.6787,1.3521
+LORO,Mahakam Ulu,Mahakam Ulu,2021,9.6364,knn_pca,8.6787,0.9577
+LORO,Mahakam Ulu,Mahakam Ulu,2022,9.2537,knn_pca,8.6787,0.575
+LORO,Mahakam Ulu,Mahakam Ulu,2023,9.0533,knn_pca,8.6788,0.3745
+LORO,Mahakam Ulu,Mahakam Ulu,2024,8.4795,knn_pca,9.1009,-0.6214
+LORO,Balikpapan,Balikpapan,2017,2.8082,knn_spasial,6.1763,-3.3681
+LORO,Balikpapan,Balikpapan,2018,2.6344,knn_spasial,5.9747,-3.3403
+LORO,Balikpapan,Balikpapan,2019,2.4084,knn_spasial,5.8598,-3.4514
+LORO,Balikpapan,Balikpapan,2020,2.4728,knn_spasial,5.8694,-3.3966
+LORO,Balikpapan,Balikpapan,2021,2.665,knn_spasial,5.934,-3.269
+LORO,Balikpapan,Balikpapan,2022,2.2499,knn_spasial,5.6792,-3.4293
+LORO,Balikpapan,Balikpapan,2023,2.1113,knn_spasial,5.2939,-3.1826
+LORO,Balikpapan,Balikpapan,2024,2.0259,knn_spasial,4.216,-2.1901
+LORO,Balikpapan,Balikpapan,2017,2.8082,knn_pca,4.9116,-2.1034
+LORO,Balikpapan,Balikpapan,2018,2.6344,knn_pca,4.9146,-2.2802
+LORO,Balikpapan,Balikpapan,2019,2.4084,knn_pca,4.8186,-2.4102
+LORO,Balikpapan,Balikpapan,2020,2.4728,knn_pca,4.9146,-2.4418
+LORO,Balikpapan,Balikpapan,2021,2.665,knn_pca,4.9146,-2.2496
+LORO,Balikpapan,Balikpapan,2022,2.2499,knn_pca,4.9146,-2.6647
+LORO,Balikpapan,Balikpapan,2023,2.1113,knn_pca,4.9146,-2.8033
+LORO,Balikpapan,Balikpapan,2024,2.0259,knn_pca,4.9146,-2.8887
+LORO,Samarinda,Samarinda,2017,4.7433,knn_spasial,5.767,-1.0237
+LORO,Samarinda,Samarinda,2018,4.5717,knn_spasial,5.5035,-0.9318
+LORO,Samarinda,Samarinda,2019,4.56,knn_spasial,5.2333,-0.6733
+LORO,Samarinda,Samarinda,2020,5.0628,knn_spasial,5.3949,-0.3321
+LORO,Samarinda,Samarinda,2021,5.1552,knn_spasial,5.6325,-0.4773
+LORO,Samarinda,Samarinda,2022,5.0252,knn_spasial,5.4199,-0.3947
+LORO,Samarinda,Samarinda,2023,4.9248,knn_spasial,4.9914,-0.0666
+LORO,Samarinda,Samarinda,2024,4.4051,knn_spasial,4.3247,0.0804
+LORO,Samarinda,Samarinda,2017,4.7433,knn_pca,2.4524,2.2909
+LORO,Samarinda,Samarinda,2018,4.5717,knn_pca,2.4524,2.1193
+LORO,Samarinda,Samarinda,2019,4.56,knn_pca,2.5052,2.0548
+LORO,Samarinda,Samarinda,2020,5.0628,knn_pca,2.278,2.7848
+LORO,Samarinda,Samarinda,2021,5.1552,knn_pca,2.278,2.8772
+LORO,Samarinda,Samarinda,2022,5.0252,knn_pca,2.278,2.7472
+LORO,Samarinda,Samarinda,2023,4.9248,knn_pca,2.278,2.6468
+LORO,Samarinda,Samarinda,2024,4.4051,knn_pca,2.4164,1.9887
+LORO,Bontang,Bontang,2017,5.129,knn_spasial,6.9688,-1.8398
+LORO,Bontang,Bontang,2018,4.6498,knn_spasial,6.8504,-2.2006
+LORO,Bontang,Bontang,2019,4.1981,knn_spasial,6.9742,-2.7761
+LORO,Bontang,Bontang,2020,4.4215,knn_spasial,6.7868,-2.3653
+LORO,Bontang,Bontang,2021,4.6515,knn_spasial,6.7828,-2.1313
+LORO,Bontang,Bontang,2022,4.5797,knn_spasial,6.4418,-1.8621
+LORO,Bontang,Bontang,2023,4.1496,knn_spasial,6.5282,-2.3786
+LORO,Bontang,Bontang,2024,3.7759,knn_spasial,6.2101,-2.4342
+LORO,Bontang,Bontang,2017,5.129,knn_pca,3.7424,1.3866
+LORO,Bontang,Bontang,2018,4.6498,knn_pca,5.3963,-0.7465
+LORO,Bontang,Bontang,2019,4.1981,knn_pca,5.6235,-1.4254
+LORO,Bontang,Bontang,2020,4.4215,knn_pca,4.8509,-0.4294
+LORO,Bontang,Bontang,2021,4.6515,knn_pca,3.7424,0.9091
+LORO,Bontang,Bontang,2022,4.5797,knn_pca,6.2293,-1.6496
+LORO,Bontang,Bontang,2023,4.1496,knn_pca,2.8131,1.3365
+LORO,Bontang,Bontang,2024,3.7759,knn_pca,3.7433,0.0326
+Waktu,2017-2022,Paser,2023,9.289,knn_spasial,5.5868,3.7022
+Waktu,2017-2022,Paser,2024,8.8084,knn_spasial,5.5868,3.2217
+Waktu,2017-2022,Kutai Barat,2023,8.2947,knn_spasial,6.6866,1.6081
+Waktu,2017-2022,Kutai Barat,2024,8.1086,knn_spasial,6.6866,1.422
+Waktu,2017-2022,Kutai Kartanegara,2023,8.0418,knn_spasial,6.5505,1.4913
+Waktu,2017-2022,Kutai Kartanegara,2024,7.4702,knn_spasial,6.5505,0.9197
+Waktu,2017-2022,Kutai Timur,2023,8.1317,knn_spasial,5.8176,2.3141
+Waktu,2017-2022,Kutai Timur,2024,8.0151,knn_spasial,5.8176,2.1975
+Waktu,2017-2022,Berau,2023,5.1336,knn_spasial,6.495,-1.3614
+Waktu,2017-2022,Berau,2024,4.7173,knn_spasial,6.495,-1.7777
+Waktu,2017-2022,Penajam Paser Utara,2023,5.663,knn_spasial,6.4151,-0.7521
+Waktu,2017-2022,Penajam Paser Utara,2024,4.0269,knn_spasial,6.4151,-2.3882
+Waktu,2017-2022,Mahakam Ulu,2023,9.0533,knn_spasial,7.8617,1.1916
+Waktu,2017-2022,Mahakam Ulu,2024,8.4795,knn_spasial,7.8617,0.6178
+Waktu,2017-2022,Balikpapan,2023,2.1113,knn_spasial,7.4359,-5.3246
+Waktu,2017-2022,Balikpapan,2024,2.0259,knn_spasial,7.4359,-5.41
+Waktu,2017-2022,Samarinda,2023,4.9248,knn_spasial,5.4199,-0.4951
+Waktu,2017-2022,Samarinda,2024,4.4051,knn_spasial,5.4199,-1.0148
+Waktu,2017-2022,Bontang,2023,4.1496,knn_spasial,5.9126,-1.763
+Waktu,2017-2022,Bontang,2024,3.7759,knn_spasial,5.9126,-2.1367
+Waktu,2017-2022,Paser,2023,9.289,knn_pca,9.1603,0.1287
+Waktu,2017-2022,Paser,2024,8.8084,knn_pca,9.4017,-0.5933
+Waktu,2017-2022,Kutai Barat,2023,8.2947,knn_pca,8.7606,-0.4659
+Waktu,2017-2022,Kutai Barat,2024,8.1086,knn_pca,9.0441,-0.9355
+Waktu,2017-2022,Kutai Kartanegara,2023,8.0418,knn_pca,8.405,-0.3632
+Waktu,2017-2022,Kutai Kartanegara,2024,7.4702,knn_pca,8.9202,-1.45
+Waktu,2017-2022,Kutai Timur,2023,8.1317,knn_pca,6.3539,1.7778
+Waktu,2017-2022,Kutai Timur,2024,8.0151,knn_pca,6.3539,1.6612
+Waktu,2017-2022,Berau,2023,5.1336,knn_pca,6.3539,-1.2203
+Waktu,2017-2022,Berau,2024,4.7173,knn_pca,6.3539,-1.6366
+Waktu,2017-2022,Penajam Paser Utara,2023,5.663,knn_pca,6.8519,-1.1889
+Waktu,2017-2022,Penajam Paser Utara,2024,4.0269,knn_pca,8.7839,-4.757
+Waktu,2017-2022,Mahakam Ulu,2023,9.0533,knn_pca,10.6723,-1.619
+Waktu,2017-2022,Mahakam Ulu,2024,8.4795,knn_pca,9.7904,-1.3109
+Waktu,2017-2022,Balikpapan,2023,2.1113,knn_pca,3.5211,-1.4098
+Waktu,2017-2022,Balikpapan,2024,2.0259,knn_pca,3.017,-0.9911
+Waktu,2017-2022,Samarinda,2023,4.9248,knn_pca,3.9932,0.9316
+Waktu,2017-2022,Samarinda,2024,4.4051,knn_pca,3.9932,0.4119
+Waktu,2017-2022,Bontang,2023,4.1496,knn_pca,4.6863,-0.5367
+Waktu,2017-2022,Bontang,2024,3.7759,knn_pca,4.6863,-0.9104

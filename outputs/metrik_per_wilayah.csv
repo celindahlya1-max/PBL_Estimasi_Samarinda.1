@@ -1,0 +1,67 @@
+Skema,Lipatan,Model,n,R2,MAE,RMSE
+LORO,Balikpapan,baseline,8,-348.8605,4.8487,4.8557
+LORO,Balikpapan,knn_pca,8,-91.2964,2.4802,2.494
+LORO,Balikpapan,knn_spasial,8,-153.5512,3.2034,3.2273
+LORO,Balikpapan,mlr_tanpa_pca,8,-122.6251,2.8714,2.8864
+LORO,Balikpapan,pca_tanpa_lag,8,-83.7247,2.3591,2.3895
+LORO,Balikpapan,utama,8,-58.9188,1.8637,2.0095
+LORO,Berau,baseline,8,-81.0777,1.8826,1.8942
+LORO,Berau,knn_pca,8,-209.7126,2.9813,3.035
+LORO,Berau,knn_spasial,8,-47.8186,1.4206,1.4608
+LORO,Berau,mlr_tanpa_pca,8,-845.9348,6.0744,6.0846
+LORO,Berau,pca_tanpa_lag,8,-122.0087,2.2802,2.3189
+LORO,Berau,utama,8,-102.6357,2.0878,2.1284
+LORO,Bontang,baseline,8,-46.3965,2.6016,2.6295
+LORO,Bontang,knn_pca,8,-7.5952,0.9895,1.1198
+LORO,Bontang,knn_spasial,8,-34.2357,2.2485,2.2672
+LORO,Bontang,mlr_tanpa_pca,8,-280.8517,6.3691,6.4122
+LORO,Bontang,pca_tanpa_lag,8,-2.1213,0.6095,0.6748
+LORO,Bontang,utama,8,-5.6216,0.7715,0.9828
+LORO,Kutai Barat,baseline,8,-25.1476,2.0315,2.0715
+LORO,Kutai Barat,knn_pca,8,-0.954,0.4812,0.5663
+LORO,Kutai Barat,knn_spasial,8,-27.3577,2.1139,2.1573
+LORO,Kutai Barat,mlr_tanpa_pca,8,-1.7346,0.549,0.6699
+LORO,Kutai Barat,pca_tanpa_lag,8,-0.387,0.4101,0.4771
+LORO,Kutai Barat,utama,8,-2.1738,0.6461,0.7217
+LORO,Kutai Kartanegara,baseline,8,-5.6148,1.1518,1.2502
+LORO,Kutai Kartanegara,knn_pca,8,-9.6539,1.5041,1.5866
+LORO,Kutai Kartanegara,knn_spasial,8,-14.7415,1.8675,1.9286
+LORO,Kutai Kartanegara,mlr_tanpa_pca,8,-22.1735,2.2182,2.3399
+LORO,Kutai Kartanegara,pca_tanpa_lag,8,-5.3645,1.0811,1.2263
+LORO,Kutai Kartanegara,utama,8,-8.6538,1.3811,1.5103
+LORO,Kutai Timur,baseline,8,-13.2072,1.9933,2.0674
+LORO,Kutai Timur,knn_pca,8,-28.9359,2.9928,3.001
+LORO,Kutai Timur,knn_spasial,8,-40.4574,3.4883,3.5316
+LORO,Kutai Timur,mlr_tanpa_pca,8,-7.3447,1.4614,1.5844
+LORO,Kutai Timur,pca_tanpa_lag,8,-13.9577,1.8967,2.1213
+LORO,Kutai Timur,utama,8,-4.7617,1.1076,1.3166
+LORO,Mahakam Ulu,baseline,8,-7.8264,3.9279,4.1713
+LORO,Mahakam Ulu,knn_pca,8,-1.39,1.7448,2.1706
+LORO,Mahakam Ulu,knn_spasial,8,-4.4642,3.0675,3.282
+LORO,Mahakam Ulu,mlr_tanpa_pca,8,-5.6478,3.0581,3.6201
+LORO,Mahakam Ulu,pca_tanpa_lag,8,-0.0762,1.0034,1.4566
+LORO,Mahakam Ulu,utama,8,-4.9571,3.0525,3.4269
+LORO,Paser,baseline,8,-52.6888,2.8069,2.8334
+LORO,Paser,knn_pca,8,-11.4797,1.1716,1.3661
+LORO,Paser,knn_spasial,8,-72.2222,3.2901,3.3089
+LORO,Paser,mlr_tanpa_pca,8,-9.1834,1.1321,1.234
+LORO,Paser,pca_tanpa_lag,8,-22.3126,1.7476,1.8671
+LORO,Paser,utama,8,-23.1465,1.7821,1.9002
+LORO,Penajam Paser Utara,baseline,8,-0.123,0.7978,1.1446
+LORO,Penajam Paser Utara,knn_pca,8,-4.3268,2.0129,2.4928
+LORO,Penajam Paser Utara,knn_spasial,8,0.2354,0.7522,0.9445
+LORO,Penajam Paser Utara,mlr_tanpa_pca,8,-6.1773,2.6756,2.8936
+LORO,Penajam Paser Utara,pca_tanpa_lag,8,-4.2124,2.2671,2.4659
+LORO,Penajam Paser Utara,utama,8,-4.33,2.1385,2.4936
+LORO,Samarinda,baseline,8,-73.0268,2.1998,2.2148
+LORO,Samarinda,knn_pca,8,-90.4952,2.4387,2.4623
+LORO,Samarinda,knn_spasial,8,-4.4221,0.4975,0.5994
+LORO,Samarinda,mlr_tanpa_pca,8,-13.4652,0.7485,0.979
+LORO,Samarinda,pca_tanpa_lag,8,-30.3193,1.3199,1.4406
+LORO,Samarinda,utama,8,-1.8824,0.3894,0.437
+Waktu,2017-2022,knn_pca,20,0.5586,1.215,1.5377
+Waktu,2017-2022,knn_spasial,20,-0.1349,2.0555,2.4658
+Waktu,2023-2024,baseline,20,-0.102,2.1379,2.4297
+Waktu,2023-2024,mlr_tanpa_pca,20,0.5906,1.2673,1.4809
+Waktu,2023-2024,pca_tanpa_lag,20,0.5066,1.3706,1.6257
+Waktu,2023-2024,utama,20,0.6427,1.0044,1.3834

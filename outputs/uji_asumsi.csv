@@ -1,0 +1,5 @@
+Uji,Statistik,p_value,Kesimpulan
+Shapiro-Wilk (normalitas residual),0.9671,0.0373,residual TIDAK normal (alpha 5%)
+Breusch-Pagan (heteroskedastisitas),4.2046,0.649,ragam galat homogen (alpha 5%)
+Durbin-Watson (autokorelasi),0.6642,,perlu diperhatikan
+Uji F keseluruhan,36.0232,0.0,model signifikan (alpha 5%)

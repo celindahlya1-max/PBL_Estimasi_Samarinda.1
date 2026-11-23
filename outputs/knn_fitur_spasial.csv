@@ -1,0 +1,161 @@
+Wilayah,Tahun,k,Peringkat_tetangga,Wilayah_tetangga,Jarak_km,P0_tetangga,P0_lag,P0_aktual,Kelas_aktual,Kelas_lag,Ambang_bawah,Ambang_atas
+Paser,2017,2,1,Penajam Paser Utara,85.25,7.6094,5.2088,9.2268,Tinggi,Menengah,5.0849,8.4565
+Paser,2017,2,2,Balikpapan,108.37,2.8082,5.2088,9.2268,Tinggi,Menengah,5.0849,8.4565
+Paser,2018,2,1,Penajam Paser Utara,85.25,7.3777,5.0061,8.9786,Tinggi,Rendah,5.0849,8.4565
+Paser,2018,2,2,Balikpapan,108.37,2.6344,5.0061,8.9786,Tinggi,Rendah,5.0849,8.4565
+Paser,2019,2,1,Penajam Paser Utara,85.25,7.1597,4.784,8.9017,Tinggi,Rendah,5.0849,8.4565
+Paser,2019,2,2,Balikpapan,108.37,2.4084,4.784,8.9017,Tinggi,Rendah,5.0849,8.4565
+Paser,2020,2,1,Penajam Paser Utara,85.25,6.676,4.5744,9.7169,Tinggi,Rendah,5.0849,8.4565
+Paser,2020,2,2,Balikpapan,108.37,2.4728,4.5744,9.7169,Tinggi,Rendah,5.0849,8.4565
+Paser,2021,2,1,Penajam Paser Utara,85.25,6.7128,4.6889,9.928,Tinggi,Rendah,5.0849,8.4565
+Paser,2021,2,2,Balikpapan,108.37,2.665,4.6889,9.928,Tinggi,Rendah,5.0849,8.4565
+Paser,2022,2,1,Penajam Paser Utara,85.25,6.3333,4.2916,9.6466,Tinggi,Rendah,5.0849,8.4565
+Paser,2022,2,2,Balikpapan,108.37,2.2499,4.2916,9.6466,Tinggi,Rendah,5.0849,8.4565
+Paser,2023,2,1,Penajam Paser Utara,85.25,5.663,3.8872,9.289,Tinggi,Rendah,5.0849,8.4565
+Paser,2023,2,2,Balikpapan,108.37,2.1113,3.8872,9.289,Tinggi,Rendah,5.0849,8.4565
+Paser,2024,2,1,Penajam Paser Utara,85.25,4.0269,3.0264,8.8084,Tinggi,Rendah,5.0849,8.4565
+Paser,2024,2,2,Balikpapan,108.37,2.0259,3.0264,8.8084,Tinggi,Rendah,5.0849,8.4565
+Kutai Barat,2017,2,1,Kutai Kartanegara,99.55,7.5216,7.5655,8.7075,Tinggi,Menengah,5.0849,8.4565
+Kutai Barat,2017,2,2,Penajam Paser Utara,112.04,7.6094,7.5655,8.7075,Tinggi,Menengah,5.0849,8.4565
+Kutai Barat,2018,2,1,Kutai Kartanegara,99.55,7.3521,7.3649,9.1396,Tinggi,Menengah,5.0849,8.4565
+Kutai Barat,2018,2,2,Penajam Paser Utara,112.04,7.3777,7.3649,9.1396,Tinggi,Menengah,5.0849,8.4565
+Kutai Barat,2019,2,1,Kutai Kartanegara,99.55,7.167,7.1633,9.0878,Tinggi,Menengah,5.0849,8.4565
+Kutai Barat,2019,2,2,Penajam Paser Utara,112.04,7.1597,7.1633,9.0878,Tinggi,Menengah,5.0849,8.4565
+Kutai Barat,2020,2,1,Kutai Kartanegara,99.55,8.0093,7.3426,7.9977,Menengah,Menengah,5.0849,8.4565
+Kutai Barat,2020,2,2,Penajam Paser Utara,112.04,6.676,7.3426,7.9977,Menengah,Menengah,5.0849,8.4565
+Kutai Barat,2021,2,1,Kutai Kartanegara,99.55,8.5005,7.6067,8.8391,Tinggi,Menengah,5.0849,8.4565
+Kutai Barat,2021,2,2,Penajam Paser Utara,112.04,6.7128,7.6067,8.8391,Tinggi,Menengah,5.0849,8.4565
+Kutai Barat,2022,2,1,Kutai Kartanegara,99.55,8.5167,7.425,8.7386,Tinggi,Menengah,5.0849,8.4565
+Kutai Barat,2022,2,2,Penajam Paser Utara,112.04,6.3333,7.425,8.7386,Tinggi,Menengah,5.0849,8.4565
+Kutai Barat,2023,2,1,Kutai Kartanegara,99.55,8.0418,6.8524,8.2947,Menengah,Menengah,5.0849,8.4565
+Kutai Barat,2023,2,2,Penajam Paser Utara,112.04,5.663,6.8524,8.2947,Menengah,Menengah,5.0849,8.4565
+Kutai Barat,2024,2,1,Kutai Kartanegara,99.55,7.4702,5.7485,8.1086,Menengah,Menengah,5.0849,8.4565
+Kutai Barat,2024,2,2,Penajam Paser Utara,112.04,4.0269,5.7485,8.1086,Menengah,Menengah,5.0849,8.4565
+Kutai Kartanegara,2017,2,1,Kutai Barat,99.55,8.7075,6.7254,7.5216,Menengah,Menengah,5.0849,8.4565
+Kutai Kartanegara,2017,2,2,Samarinda,102.87,4.7433,6.7254,7.5216,Menengah,Menengah,5.0849,8.4565
+Kutai Kartanegara,2018,2,1,Kutai Barat,99.55,9.1396,6.8556,7.3521,Menengah,Menengah,5.0849,8.4565
+Kutai Kartanegara,2018,2,2,Samarinda,102.87,4.5717,6.8556,7.3521,Menengah,Menengah,5.0849,8.4565
+Kutai Kartanegara,2019,2,1,Kutai Barat,99.55,9.0878,6.8239,7.167,Menengah,Menengah,5.0849,8.4565
+Kutai Kartanegara,2019,2,2,Samarinda,102.87,4.56,6.8239,7.167,Menengah,Menengah,5.0849,8.4565
+Kutai Kartanegara,2020,2,1,Kutai Barat,99.55,7.9977,6.5303,8.0093,Menengah,Menengah,5.0849,8.4565
+Kutai Kartanegara,2020,2,2,Samarinda,102.87,5.0628,6.5303,8.0093,Menengah,Menengah,5.0849,8.4565
+Kutai Kartanegara,2021,2,1,Kutai Barat,99.55,8.8391,6.9971,8.5005,Tinggi,Menengah,5.0849,8.4565
+Kutai Kartanegara,2021,2,2,Samarinda,102.87,5.1552,6.9971,8.5005,Tinggi,Menengah,5.0849,8.4565
+Kutai Kartanegara,2022,2,1,Kutai Barat,99.55,8.7386,6.8819,8.5167,Tinggi,Menengah,5.0849,8.4565
+Kutai Kartanegara,2022,2,2,Samarinda,102.87,5.0252,6.8819,8.5167,Tinggi,Menengah,5.0849,8.4565
+Kutai Kartanegara,2023,2,1,Kutai Barat,99.55,8.2947,6.6098,8.0418,Menengah,Menengah,5.0849,8.4565
+Kutai Kartanegara,2023,2,2,Samarinda,102.87,4.9248,6.6098,8.0418,Menengah,Menengah,5.0849,8.4565
+Kutai Kartanegara,2024,2,1,Kutai Barat,99.55,8.1086,6.2569,7.4702,Menengah,Menengah,5.0849,8.4565
+Kutai Kartanegara,2024,2,2,Samarinda,102.87,4.4051,6.2569,7.4702,Menengah,Menengah,5.0849,8.4565
+Kutai Timur,2017,2,1,Berau,105.23,5.3762,5.2526,9.1942,Tinggi,Menengah,5.0849,8.4565
+Kutai Timur,2017,2,2,Bontang,106.19,5.129,5.2526,9.1942,Tinggi,Menengah,5.0849,8.4565
+Kutai Timur,2018,2,1,Berau,105.23,5.0022,4.826,9.1291,Tinggi,Rendah,5.0849,8.4565
+Kutai Timur,2018,2,2,Bontang,106.19,4.6498,4.826,9.1291,Tinggi,Rendah,5.0849,8.4565
+Kutai Timur,2019,2,1,Berau,105.23,5.0022,4.6002,9.3885,Tinggi,Rendah,5.0849,8.4565
+Kutai Timur,2019,2,2,Bontang,106.19,4.1981,4.6002,9.3885,Tinggi,Rendah,5.0849,8.4565
+Kutai Timur,2020,2,1,Berau,105.23,4.9597,4.6906,8.5109,Tinggi,Rendah,5.0849,8.4565
+Kutai Timur,2020,2,2,Bontang,106.19,4.4215,4.6906,8.5109,Tinggi,Rendah,5.0849,8.4565
+Kutai Timur,2021,2,1,Berau,105.23,5.3919,5.0217,8.4105,Menengah,Rendah,5.0849,8.4565
+Kutai Timur,2021,2,2,Bontang,106.19,4.6515,5.0217,8.4105,Menengah,Rendah,5.0849,8.4565
+Kutai Timur,2022,2,1,Berau,105.23,5.1489,4.8643,7.8584,Menengah,Rendah,5.0849,8.4565
+Kutai Timur,2022,2,2,Bontang,106.19,4.5797,4.8643,7.8584,Menengah,Rendah,5.0849,8.4565
+Kutai Timur,2023,2,1,Berau,105.23,5.1336,4.6416,8.1317,Menengah,Rendah,5.0849,8.4565
+Kutai Timur,2023,2,2,Bontang,106.19,4.1496,4.6416,8.1317,Menengah,Rendah,5.0849,8.4565
+Kutai Timur,2024,2,1,Berau,105.23,4.7173,4.2466,8.0151,Menengah,Rendah,5.0849,8.4565
+Kutai Timur,2024,2,2,Bontang,106.19,3.7759,4.2466,8.0151,Menengah,Rendah,5.0849,8.4565
+Berau,2017,2,1,Kutai Timur,105.23,9.1942,7.1616,5.3762,Menengah,Menengah,5.0849,8.4565
+Berau,2017,2,2,Bontang,202.71,5.129,7.1616,5.3762,Menengah,Menengah,5.0849,8.4565
+Berau,2018,2,1,Kutai Timur,105.23,9.1291,6.8895,5.0022,Rendah,Menengah,5.0849,8.4565
+Berau,2018,2,2,Bontang,202.71,4.6498,6.8895,5.0022,Rendah,Menengah,5.0849,8.4565
+Berau,2019,2,1,Kutai Timur,105.23,9.3885,6.7933,5.0022,Rendah,Menengah,5.0849,8.4565
+Berau,2019,2,2,Bontang,202.71,4.1981,6.7933,5.0022,Rendah,Menengah,5.0849,8.4565
+Berau,2020,2,1,Kutai Timur,105.23,8.5109,6.4662,4.9597,Rendah,Menengah,5.0849,8.4565
+Berau,2020,2,2,Bontang,202.71,4.4215,6.4662,4.9597,Rendah,Menengah,5.0849,8.4565
+Berau,2021,2,1,Kutai Timur,105.23,8.4105,6.531,5.3919,Menengah,Menengah,5.0849,8.4565
+Berau,2021,2,2,Bontang,202.71,4.6515,6.531,5.3919,Menengah,Menengah,5.0849,8.4565
+Berau,2022,2,1,Kutai Timur,105.23,7.8584,6.219,5.1489,Menengah,Menengah,5.0849,8.4565
+Berau,2022,2,2,Bontang,202.71,4.5797,6.219,5.1489,Menengah,Menengah,5.0849,8.4565
+Berau,2023,2,1,Kutai Timur,105.23,8.1317,6.1407,5.1336,Menengah,Menengah,5.0849,8.4565
+Berau,2023,2,2,Bontang,202.71,4.1496,6.1407,5.1336,Menengah,Menengah,5.0849,8.4565
+Berau,2024,2,1,Kutai Timur,105.23,8.0151,5.8955,4.7173,Rendah,Menengah,5.0849,8.4565
+Berau,2024,2,2,Bontang,202.71,3.7759,5.8955,4.7173,Rendah,Menengah,5.0849,8.4565
+Penajam Paser Utara,2017,2,1,Balikpapan,31.26,2.8082,6.0175,7.6094,Menengah,Menengah,5.0849,8.4565
+Penajam Paser Utara,2017,2,2,Paser,85.25,9.2268,6.0175,7.6094,Menengah,Menengah,5.0849,8.4565
+Penajam Paser Utara,2018,2,1,Balikpapan,31.26,2.6344,5.8065,7.3777,Menengah,Menengah,5.0849,8.4565
+Penajam Paser Utara,2018,2,2,Paser,85.25,8.9786,5.8065,7.3777,Menengah,Menengah,5.0849,8.4565
+Penajam Paser Utara,2019,2,1,Balikpapan,31.26,2.4084,5.6551,7.1597,Menengah,Menengah,5.0849,8.4565
+Penajam Paser Utara,2019,2,2,Paser,85.25,8.9017,5.6551,7.1597,Menengah,Menengah,5.0849,8.4565
+Penajam Paser Utara,2020,2,1,Balikpapan,31.26,2.4728,6.0949,6.676,Menengah,Menengah,5.0849,8.4565
+Penajam Paser Utara,2020,2,2,Paser,85.25,9.7169,6.0949,6.676,Menengah,Menengah,5.0849,8.4565
+Penajam Paser Utara,2021,2,1,Balikpapan,31.26,2.665,6.2965,6.7128,Menengah,Menengah,5.0849,8.4565
+Penajam Paser Utara,2021,2,2,Paser,85.25,9.928,6.2965,6.7128,Menengah,Menengah,5.0849,8.4565
+Penajam Paser Utara,2022,2,1,Balikpapan,31.26,2.2499,5.9482,6.3333,Menengah,Menengah,5.0849,8.4565
+Penajam Paser Utara,2022,2,2,Paser,85.25,9.6466,5.9482,6.3333,Menengah,Menengah,5.0849,8.4565
+Penajam Paser Utara,2023,2,1,Balikpapan,31.26,2.1113,5.7001,5.663,Menengah,Menengah,5.0849,8.4565
+Penajam Paser Utara,2023,2,2,Paser,85.25,9.289,5.7001,5.663,Menengah,Menengah,5.0849,8.4565
+Penajam Paser Utara,2024,2,1,Balikpapan,31.26,2.0259,5.4172,4.0269,Rendah,Menengah,5.0849,8.4565
+Penajam Paser Utara,2024,2,2,Paser,85.25,8.8084,5.4172,4.0269,Rendah,Menengah,5.0849,8.4565
+Mahakam Ulu,2017,2,1,Kutai Barat,176.4,8.7075,8.1145,11.673,Tinggi,Menengah,5.0849,8.4565
+Mahakam Ulu,2017,2,2,Kutai Kartanegara,195.9,7.5216,8.1145,11.673,Tinggi,Menengah,5.0849,8.4565
+Mahakam Ulu,2018,2,1,Kutai Barat,176.4,9.1396,8.2459,12.3574,Tinggi,Menengah,5.0849,8.4565
+Mahakam Ulu,2018,2,2,Kutai Kartanegara,195.9,7.3521,8.2459,12.3574,Tinggi,Menengah,5.0849,8.4565
+Mahakam Ulu,2019,2,1,Kutai Barat,176.4,9.0878,8.1274,12.0833,Tinggi,Menengah,5.0849,8.4565
+Mahakam Ulu,2019,2,2,Kutai Kartanegara,195.9,7.167,8.1274,12.0833,Tinggi,Menengah,5.0849,8.4565
+Mahakam Ulu,2020,2,1,Kutai Barat,176.4,7.9977,8.0035,10.0308,Tinggi,Menengah,5.0849,8.4565
+Mahakam Ulu,2020,2,2,Kutai Kartanegara,195.9,8.0093,8.0035,10.0308,Tinggi,Menengah,5.0849,8.4565
+Mahakam Ulu,2021,2,1,Kutai Barat,176.4,8.8391,8.6698,9.6364,Tinggi,Tinggi,5.0849,8.4565
+Mahakam Ulu,2021,2,2,Kutai Kartanegara,195.9,8.5005,8.6698,9.6364,Tinggi,Tinggi,5.0849,8.4565
+Mahakam Ulu,2022,2,1,Kutai Barat,176.4,8.7386,8.6276,9.2537,Tinggi,Tinggi,5.0849,8.4565
+Mahakam Ulu,2022,2,2,Kutai Kartanegara,195.9,8.5167,8.6276,9.2537,Tinggi,Tinggi,5.0849,8.4565
+Mahakam Ulu,2023,2,1,Kutai Barat,176.4,8.2947,8.1683,9.0533,Tinggi,Menengah,5.0849,8.4565
+Mahakam Ulu,2023,2,2,Kutai Kartanegara,195.9,8.0418,8.1683,9.0533,Tinggi,Menengah,5.0849,8.4565
+Mahakam Ulu,2024,2,1,Kutai Barat,176.4,8.1086,7.7894,8.4795,Tinggi,Menengah,5.0849,8.4565
+Mahakam Ulu,2024,2,2,Kutai Kartanegara,195.9,7.4702,7.7894,8.4795,Tinggi,Menengah,5.0849,8.4565
+Balikpapan,2017,2,1,Penajam Paser Utara,31.26,7.6094,6.1763,2.8082,Rendah,Menengah,5.0849,8.4565
+Balikpapan,2017,2,2,Samarinda,80.47,4.7433,6.1763,2.8082,Rendah,Menengah,5.0849,8.4565
+Balikpapan,2018,2,1,Penajam Paser Utara,31.26,7.3777,5.9747,2.6344,Rendah,Menengah,5.0849,8.4565
+Balikpapan,2018,2,2,Samarinda,80.47,4.5717,5.9747,2.6344,Rendah,Menengah,5.0849,8.4565
+Balikpapan,2019,2,1,Penajam Paser Utara,31.26,7.1597,5.8598,2.4084,Rendah,Menengah,5.0849,8.4565
+Balikpapan,2019,2,2,Samarinda,80.47,4.56,5.8598,2.4084,Rendah,Menengah,5.0849,8.4565
+Balikpapan,2020,2,1,Penajam Paser Utara,31.26,6.676,5.8694,2.4728,Rendah,Menengah,5.0849,8.4565
+Balikpapan,2020,2,2,Samarinda,80.47,5.0628,5.8694,2.4728,Rendah,Menengah,5.0849,8.4565
+Balikpapan,2021,2,1,Penajam Paser Utara,31.26,6.7128,5.934,2.665,Rendah,Menengah,5.0849,8.4565
+Balikpapan,2021,2,2,Samarinda,80.47,5.1552,5.934,2.665,Rendah,Menengah,5.0849,8.4565
+Balikpapan,2022,2,1,Penajam Paser Utara,31.26,6.3333,5.6792,2.2499,Rendah,Menengah,5.0849,8.4565
+Balikpapan,2022,2,2,Samarinda,80.47,5.0252,5.6792,2.2499,Rendah,Menengah,5.0849,8.4565
+Balikpapan,2023,2,1,Penajam Paser Utara,31.26,5.663,5.2939,2.1113,Rendah,Menengah,5.0849,8.4565
+Balikpapan,2023,2,2,Samarinda,80.47,4.9248,5.2939,2.1113,Rendah,Menengah,5.0849,8.4565
+Balikpapan,2024,2,1,Penajam Paser Utara,31.26,4.0269,4.216,2.0259,Rendah,Rendah,5.0849,8.4565
+Balikpapan,2024,2,2,Samarinda,80.47,4.4051,4.216,2.0259,Rendah,Rendah,5.0849,8.4565
+Samarinda,2017,2,1,Bontang,73.01,5.129,3.9686,4.7433,Rendah,Rendah,5.0849,8.4565
+Samarinda,2017,2,2,Balikpapan,80.47,2.8082,3.9686,4.7433,Rendah,Rendah,5.0849,8.4565
+Samarinda,2018,2,1,Bontang,73.01,4.6498,3.6421,4.5717,Rendah,Rendah,5.0849,8.4565
+Samarinda,2018,2,2,Balikpapan,80.47,2.6344,3.6421,4.5717,Rendah,Rendah,5.0849,8.4565
+Samarinda,2019,2,1,Bontang,73.01,4.1981,3.3033,4.56,Rendah,Rendah,5.0849,8.4565
+Samarinda,2019,2,2,Balikpapan,80.47,2.4084,3.3033,4.56,Rendah,Rendah,5.0849,8.4565
+Samarinda,2020,2,1,Bontang,73.01,4.4215,3.4471,5.0628,Rendah,Rendah,5.0849,8.4565
+Samarinda,2020,2,2,Balikpapan,80.47,2.4728,3.4471,5.0628,Rendah,Rendah,5.0849,8.4565
+Samarinda,2021,2,1,Bontang,73.01,4.6515,3.6583,5.1552,Menengah,Rendah,5.0849,8.4565
+Samarinda,2021,2,2,Balikpapan,80.47,2.665,3.6583,5.1552,Menengah,Rendah,5.0849,8.4565
+Samarinda,2022,2,1,Bontang,73.01,4.5797,3.4148,5.0252,Rendah,Rendah,5.0849,8.4565
+Samarinda,2022,2,2,Balikpapan,80.47,2.2499,3.4148,5.0252,Rendah,Rendah,5.0849,8.4565
+Samarinda,2023,2,1,Bontang,73.01,4.1496,3.1305,4.9248,Rendah,Rendah,5.0849,8.4565
+Samarinda,2023,2,2,Balikpapan,80.47,2.1113,3.1305,4.9248,Rendah,Rendah,5.0849,8.4565
+Samarinda,2024,2,1,Bontang,73.01,3.7759,2.9009,4.4051,Rendah,Rendah,5.0849,8.4565
+Samarinda,2024,2,2,Balikpapan,80.47,2.0259,2.9009,4.4051,Rendah,Rendah,5.0849,8.4565
+Bontang,2017,2,1,Samarinda,73.01,4.7433,6.9688,5.129,Menengah,Menengah,5.0849,8.4565
+Bontang,2017,2,2,Kutai Timur,106.19,9.1942,6.9688,5.129,Menengah,Menengah,5.0849,8.4565
+Bontang,2018,2,1,Samarinda,73.01,4.5717,6.8504,4.6498,Rendah,Menengah,5.0849,8.4565
+Bontang,2018,2,2,Kutai Timur,106.19,9.1291,6.8504,4.6498,Rendah,Menengah,5.0849,8.4565
+Bontang,2019,2,1,Samarinda,73.01,4.56,6.9742,4.1981,Rendah,Menengah,5.0849,8.4565
+Bontang,2019,2,2,Kutai Timur,106.19,9.3885,6.9742,4.1981,Rendah,Menengah,5.0849,8.4565
+Bontang,2020,2,1,Samarinda,73.01,5.0628,6.7868,4.4215,Rendah,Menengah,5.0849,8.4565
+Bontang,2020,2,2,Kutai Timur,106.19,8.5109,6.7868,4.4215,Rendah,Menengah,5.0849,8.4565
+Bontang,2021,2,1,Samarinda,73.01,5.1552,6.7828,4.6515,Rendah,Menengah,5.0849,8.4565
+Bontang,2021,2,2,Kutai Timur,106.19,8.4105,6.7828,4.6515,Rendah,Menengah,5.0849,8.4565
+Bontang,2022,2,1,Samarinda,73.01,5.0252,6.4418,4.5797,Rendah,Menengah,5.0849,8.4565
+Bontang,2022,2,2,Kutai Timur,106.19,7.8584,6.4418,4.5797,Rendah,Menengah,5.0849,8.4565
+Bontang,2023,2,1,Samarinda,73.01,4.9248,6.5282,4.1496,Rendah,Menengah,5.0849,8.4565
+Bontang,2023,2,2,Kutai Timur,106.19,8.1317,6.5282,4.1496,Rendah,Menengah,5.0849,8.4565
+Bontang,2024,2,1,Samarinda,73.01,4.4051,6.2101,3.7759,Rendah,Menengah,5.0849,8.4565
+Bontang,2024,2,2,Kutai Timur,106.19,8.0151,6.2101,3.7759,Rendah,Menengah,5.0849,8.4565

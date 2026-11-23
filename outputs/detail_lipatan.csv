@@ -1,0 +1,11 @@
+Skema,Lipatan,k_utama,k_mlr,m_utama,varians_kumulatif_utama,m_pca_tanpa_lag,RMSE_inner_k,kandidat_k
+LORO,Paser,2,4,5,0.8989,5,2.2599,k=2:2.2599; k=3:2.4369; k=4:2.4990
+LORO,Kutai Barat,4,4,5,0.8941,5,2.3356,k=4:2.3356; k=3:2.7807; k=2:3.0377
+LORO,Kutai Kartanegara,3,4,5,0.8998,5,2.0182,k=3:2.0182; k=4:2.0800; k=2:3.4050
+LORO,Kutai Timur,4,4,4,0.8512,4,1.7887,k=4:1.7887; k=3:1.9033; k=2:1.9312
+LORO,Berau,3,4,4,0.8654,4,1.7418,k=3:1.7418; k=4:1.7699; k=2:1.7904
+LORO,Penajam Paser Utara,4,4,4,0.8661,4,1.7454,k=4:1.7454; k=3:1.8216; k=2:1.8333
+LORO,Mahakam Ulu,4,4,5,0.8934,5,2.0945,k=4:2.0945; k=2:2.6224; k=3:2.6929
+LORO,Balikpapan,3,3,5,0.8849,5,1.6771,k=3:1.6771; k=4:1.7148; k=2:2.0032
+LORO,Samarinda,2,4,5,0.8823,5,2.0314,k=2:2.0314; k=4:2.2204; k=3:2.9334
+LORO,Bontang,4,2,5,0.8988,5,2.1272,k=4:2.1272; k=2:2.3654; k=3:2.4170

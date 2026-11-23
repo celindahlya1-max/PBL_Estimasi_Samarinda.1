@@ -1,0 +1,13 @@
+Skema,Model,Label,n,R2,MAE,RMSE,MAPE_persen
+LORO,pca_tanpa_lag,PCA + MLR (tanpa spatial lag),80,0.4934,1.4975,1.7759,29.38
+LORO,utama,PCA + spatial lag + MLR (model utama),80,0.4245,1.522,1.8929,27.09
+LORO,knn_pca,KNN regresi pada skor PCA (pembanding),80,0.2389,1.8797,2.1768,36.14
+LORO,knn_spasial,"KNN geospasial (rata-rata P0 k tetangga, tanpa MLR)",80,0.0121,2.195,2.4801,38.82
+LORO,baseline,Baseline (rata-rata P0 latih),80,-0.2183,2.4242,2.7541,49.01
+LORO,mlr_tanpa_pca,MLR tanpa PCA (12 fitur + spatial lag),80,-0.9092,2.7158,3.4477,53.79
+Waktu,utama,PCA + spatial lag + MLR (model utama),20,0.6427,1.0044,1.3834,20.24
+Waktu,mlr_tanpa_pca,MLR tanpa PCA (12 fitur + spatial lag),20,0.5906,1.2673,1.4809,26.18
+Waktu,knn_pca,KNN regresi pada skor PCA (pembanding),20,0.5586,1.215,1.5377,25.19
+Waktu,pca_tanpa_lag,PCA + MLR (tanpa spatial lag),20,0.5066,1.3706,1.6257,28.86
+Waktu,baseline,Baseline (rata-rata P0 latih),20,-0.102,2.1379,2.4297,53.51
+Waktu,knn_spasial,"KNN geospasial (rata-rata P0 k tetangga, tanpa MLR)",20,-0.1349,2.0555,2.4658,50.44

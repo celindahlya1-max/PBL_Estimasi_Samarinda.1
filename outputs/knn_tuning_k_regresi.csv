@@ -1,0 +1,111 @@
+Jenis,k,RMSE_inner,MAE_inner,R2_inner,Skema,Lipatan
+knn_spasial,5,2.364982,2.101607,0.085059,LORO,Paser
+knn_spasial,2,2.444448,2.175953,0.02254,LORO,Paser
+knn_spasial,4,2.476937,2.074536,-0.003615,LORO,Paser
+knn_spasial,3,2.531302,2.256704,-0.048154,LORO,Paser
+knn_spasial,1,2.70418,2.141511,-0.196213,LORO,Paser
+knn_pca,4,2.340568,2.091422,0.103852,LORO,Paser
+knn_pca,5,2.364123,2.076636,0.085724,LORO,Paser
+knn_pca,3,2.393214,2.134402,0.063084,LORO,Paser
+knn_pca,2,2.399271,2.182064,0.058336,LORO,Paser
+knn_pca,1,2.626808,2.375113,-0.12874,LORO,Paser
+knn_spasial,4,2.775585,2.330608,-0.187653,LORO,Kutai Barat
+knn_spasial,3,2.902744,2.534055,-0.298967,LORO,Kutai Barat
+knn_spasial,2,2.91659,2.576394,-0.311388,LORO,Kutai Barat
+knn_spasial,5,3.006159,2.681845,-0.393171,LORO,Kutai Barat
+knn_spasial,1,3.112274,2.706615,-0.493262,LORO,Kutai Barat
+knn_pca,5,2.474782,2.202806,0.055821,LORO,Kutai Barat
+knn_pca,4,2.513696,2.271858,0.025894,LORO,Kutai Barat
+knn_pca,3,2.633344,2.376969,-0.069045,LORO,Kutai Barat
+knn_pca,2,2.69245,2.411104,-0.117572,LORO,Kutai Barat
+knn_pca,1,2.881273,2.548372,-0.279821,LORO,Kutai Barat
+knn_spasial,3,2.670478,2.238735,-0.055155,LORO,Kutai Kartanegara
+knn_spasial,4,2.848476,2.447072,-0.200503,LORO,Kutai Kartanegara
+knn_spasial,5,2.934833,2.627913,-0.274398,LORO,Kutai Kartanegara
+knn_spasial,1,2.951241,2.524522,-0.288687,LORO,Kutai Kartanegara
+knn_spasial,2,3.012719,2.641692,-0.342936,LORO,Kutai Kartanegara
+knn_pca,3,2.245092,1.968648,0.254227,LORO,Kutai Kartanegara
+knn_pca,4,2.250126,1.979626,0.250879,LORO,Kutai Kartanegara
+knn_pca,5,2.265544,1.956275,0.240578,LORO,Kutai Kartanegara
+knn_pca,2,2.320979,2.019563,0.202959,LORO,Kutai Kartanegara
+knn_pca,1,2.401457,2.069078,0.146727,LORO,Kutai Kartanegara
+knn_spasial,1,2.37343,1.756807,0.131599,LORO,Kutai Timur
+knn_spasial,2,2.42935,1.99964,0.090196,LORO,Kutai Timur
+knn_spasial,3,2.519928,2.054134,0.021087,LORO,Kutai Timur
+knn_spasial,4,2.678269,2.200734,-0.105799,LORO,Kutai Timur
+knn_spasial,5,2.881323,2.525037,-0.279828,LORO,Kutai Timur
+knn_pca,5,2.119667,1.800509,0.307367,LORO,Kutai Timur
+knn_pca,4,2.157636,1.864785,0.282331,LORO,Kutai Timur
+knn_pca,3,2.202602,1.938764,0.252107,LORO,Kutai Timur
+knn_pca,2,2.277112,1.996853,0.200651,LORO,Kutai Timur
+knn_pca,1,2.479798,2.165083,0.052018,LORO,Kutai Timur
+knn_spasial,2,2.580218,2.197775,-0.015125,LORO,Berau
+knn_spasial,4,2.585738,2.140475,-0.019473,LORO,Berau
+knn_spasial,1,2.740391,2.144396,-0.145069,LORO,Berau
+knn_spasial,5,2.764964,2.389747,-0.165698,LORO,Berau
+knn_spasial,3,2.768517,2.454604,-0.168695,LORO,Berau
+knn_pca,5,1.934003,1.605016,0.429676,LORO,Berau
+knn_pca,4,1.951773,1.653466,0.419148,LORO,Berau
+knn_pca,3,1.965429,1.75401,0.410992,LORO,Berau
+knn_pca,2,2.000621,1.785099,0.389709,LORO,Berau
+knn_pca,1,2.359986,1.980967,0.150769,LORO,Berau
+knn_spasial,4,2.828642,2.450667,-0.181233,LORO,Penajam Paser Utara
+knn_spasial,5,2.853299,2.618286,-0.201916,LORO,Penajam Paser Utara
+knn_spasial,3,2.897872,2.506791,-0.239761,LORO,Penajam Paser Utara
+knn_spasial,2,2.99422,2.665738,-0.32357,LORO,Penajam Paser Utara
+knn_spasial,1,3.079848,2.27799,-0.400355,LORO,Penajam Paser Utara
+knn_pca,5,2.100023,1.776716,0.34893,LORO,Penajam Paser Utara
+knn_pca,4,2.110477,1.798417,0.342432,LORO,Penajam Paser Utara
+knn_pca,3,2.126681,1.848623,0.332295,LORO,Penajam Paser Utara
+knn_pca,2,2.130309,1.868936,0.330015,LORO,Penajam Paser Utara
+knn_pca,1,2.269491,1.988101,0.23961,LORO,Penajam Paser Utara
+knn_spasial,5,2.545409,2.185357,-0.256687,LORO,Mahakam Ulu
+knn_spasial,4,2.568442,2.112332,-0.279533,LORO,Mahakam Ulu
+knn_spasial,2,2.663904,2.27371,-0.376415,LORO,Mahakam Ulu
+knn_spasial,3,2.715601,2.430168,-0.430356,LORO,Mahakam Ulu
+knn_spasial,1,2.807292,2.270447,-0.528577,LORO,Mahakam Ulu
+knn_pca,4,2.146355,1.891279,0.106457,LORO,Mahakam Ulu
+knn_pca,5,2.146566,1.892371,0.106282,LORO,Mahakam Ulu
+knn_pca,3,2.236658,1.998623,0.029688,LORO,Mahakam Ulu
+knn_pca,2,2.279548,2.020967,-0.007882,LORO,Mahakam Ulu
+knn_pca,1,2.403699,2.125281,-0.120656,LORO,Mahakam Ulu
+knn_spasial,2,2.069311,1.750687,0.060774,LORO,Balikpapan
+knn_spasial,3,2.123872,1.908989,0.010592,LORO,Balikpapan
+knn_spasial,4,2.152338,1.959815,-0.016107,LORO,Balikpapan
+knn_spasial,5,2.307759,2.075224,-0.168152,LORO,Balikpapan
+knn_spasial,1,2.372119,1.884686,-0.234217,LORO,Balikpapan
+knn_pca,5,2.12449,1.771262,0.010016,LORO,Balikpapan
+knn_pca,4,2.156609,1.842023,-0.020144,LORO,Balikpapan
+knn_pca,2,2.15834,1.785467,-0.021782,LORO,Balikpapan
+knn_pca,3,2.20855,1.885381,-0.069875,LORO,Balikpapan
+knn_pca,1,2.241181,1.871206,-0.101723,LORO,Balikpapan
+knn_spasial,4,2.808443,2.410573,-0.22735,LORO,Samarinda
+knn_spasial,5,2.898788,2.592705,-0.307586,LORO,Samarinda
+knn_spasial,3,2.924486,2.470692,-0.330872,LORO,Samarinda
+knn_spasial,1,3.197139,2.813446,-0.590597,LORO,Samarinda
+knn_spasial,2,3.291514,2.792799,-0.685888,LORO,Samarinda
+knn_pca,3,2.066937,1.791257,0.335199,LORO,Samarinda
+knn_pca,2,2.103074,1.817815,0.31175,LORO,Samarinda
+knn_pca,4,2.104937,1.831155,0.31053,LORO,Samarinda
+knn_pca,5,2.108259,1.787209,0.308352,LORO,Samarinda
+knn_pca,1,2.137638,1.803099,0.288941,LORO,Samarinda
+knn_spasial,2,2.61604,2.177583,-0.099462,LORO,Bontang
+knn_spasial,3,2.62416,2.24916,-0.106298,LORO,Bontang
+knn_spasial,4,2.719441,2.345441,-0.188093,LORO,Bontang
+knn_spasial,5,2.94587,2.664046,-0.394179,LORO,Bontang
+knn_spasial,1,2.989137,2.618847,-0.435433,LORO,Bontang
+knn_pca,5,2.244463,1.946192,0.190687,LORO,Bontang
+knn_pca,4,2.303277,2.042431,0.147717,LORO,Bontang
+knn_pca,3,2.311498,2.058458,0.141622,LORO,Bontang
+knn_pca,2,2.317667,2.028483,0.137035,LORO,Bontang
+knn_pca,1,2.36498,2.063996,0.101441,LORO,Bontang
+knn_spasial,4,2.610602,2.165134,-0.068427,Waktu,2017-2022
+knn_spasial,2,2.66176,2.282767,-0.110712,Waktu,2017-2022
+knn_spasial,3,2.700826,2.411,-0.143554,Waktu,2017-2022
+knn_spasial,5,2.701024,2.330937,-0.143722,Waktu,2017-2022
+knn_spasial,1,2.853849,2.321673,-0.276808,Waktu,2017-2022
+knn_pca,5,2.075594,1.793533,0.32462,Waktu,2017-2022
+knn_pca,2,2.09665,1.854901,0.310847,Waktu,2017-2022
+knn_pca,4,2.132183,1.864242,0.28729,Waktu,2017-2022
+knn_pca,3,2.151934,1.945206,0.274026,Waktu,2017-2022
+knn_pca,1,2.205941,1.965405,0.237128,Waktu,2017-2022

@@ -1,0 +1,14 @@
+Variabel,Label,Koefisien_efektif,Arah,Koefisien_Lag
+Peng_Disesuaikan_RibuRp,Pengeluaran disesuaikan (ribu Rp/kapita/tahun),-0.962159,negatif terhadap P0,
+RLS,Rata-rata lama sekolah (tahun),-0.899427,negatif terhadap P0,
+Kepadatan_per_km2,Kepadatan penduduk (jiwa/km2),-0.847049,negatif terhadap P0,
+UHH,Umur harapan hidup (tahun),-0.712145,negatif terhadap P0,
+Peng_NonMakanan_Rp,Pengeluaran bukan makanan (Rp/kapita/bulan),-0.706467,negatif terhadap P0,
+TPT,Tingkat pengangguran terbuka (%),-0.679037,negatif terhadap P0,
+Jumlah_Penduduk_Ribu,Jumlah penduduk (ribu jiwa),-0.606994,negatif terhadap P0,
+HLS_Perempuan,Harapan lama sekolah perempuan (tahun),-0.600751,negatif terhadap P0,
+Laju_Pertumbuhan_Penduduk,Laju pertumbuhan penduduk (%/tahun),-0.162712,negatif terhadap P0,
+IDG,Indeks pemberdayaan gender,0.418353,positif terhadap P0,
+Rasio_Jenis_Kelamin,Rasio jenis kelamin (per 100 perempuan),0.634028,positif terhadap P0,
+TPAK,Tingkat partisipasi angkatan kerja (%),0.676902,positif terhadap P0,
+SpatialLag,Spatial lag (rata-rata P0 tetangga),,,-0.3744596094749688

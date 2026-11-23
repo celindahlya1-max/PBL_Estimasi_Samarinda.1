@@ -1,0 +1,21 @@
+# Virtual environment dan cache Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Pengaturan lokal Streamlit
+.streamlit/secrets.toml
+
+# Berkas sementara
+~$*.xlsx
+*.tmp
+
+# Berkas sistem operasi & editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+
+# Log
+*.log

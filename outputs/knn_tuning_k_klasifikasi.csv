@@ -1,0 +1,101 @@
+Varian,k,Akurasi_inner,n_inner,Skema,Lipatan
+knn_klas_pca,1,0.5278,72,LORO,Paser
+knn_klas_pca,3,0.5,72,LORO,Paser
+knn_klas_pca,2,0.4861,72,LORO,Paser
+knn_klas_pca,4,0.4861,72,LORO,Paser
+knn_klas_pca,5,0.4722,72,LORO,Paser
+knn_klas_spasial,1,0.375,72,LORO,Paser
+knn_klas_spasial,2,0.375,72,LORO,Paser
+knn_klas_spasial,5,0.375,72,LORO,Paser
+knn_klas_spasial,4,0.3611,72,LORO,Paser
+knn_klas_spasial,3,0.3472,72,LORO,Paser
+knn_klas_pca,1,0.4306,72,LORO,Kutai Barat
+knn_klas_pca,4,0.3611,72,LORO,Kutai Barat
+knn_klas_pca,2,0.3472,72,LORO,Kutai Barat
+knn_klas_pca,3,0.3333,72,LORO,Kutai Barat
+knn_klas_pca,5,0.2917,72,LORO,Kutai Barat
+knn_klas_spasial,4,0.2639,72,LORO,Kutai Barat
+knn_klas_spasial,1,0.2083,72,LORO,Kutai Barat
+knn_klas_spasial,2,0.2083,72,LORO,Kutai Barat
+knn_klas_spasial,3,0.1944,72,LORO,Kutai Barat
+knn_klas_spasial,5,0.1944,72,LORO,Kutai Barat
+knn_klas_pca,3,0.5556,72,LORO,Kutai Kartanegara
+knn_klas_pca,1,0.5139,72,LORO,Kutai Kartanegara
+knn_klas_pca,2,0.5139,72,LORO,Kutai Kartanegara
+knn_klas_pca,4,0.4861,72,LORO,Kutai Kartanegara
+knn_klas_pca,5,0.4861,72,LORO,Kutai Kartanegara
+knn_klas_spasial,1,0.3333,72,LORO,Kutai Kartanegara
+knn_klas_spasial,2,0.3333,72,LORO,Kutai Kartanegara
+knn_klas_spasial,3,0.3194,72,LORO,Kutai Kartanegara
+knn_klas_spasial,4,0.2917,72,LORO,Kutai Kartanegara
+knn_klas_spasial,5,0.2639,72,LORO,Kutai Kartanegara
+knn_klas_pca,3,0.5,72,LORO,Kutai Timur
+knn_klas_pca,1,0.4722,72,LORO,Kutai Timur
+knn_klas_pca,4,0.4583,72,LORO,Kutai Timur
+knn_klas_pca,5,0.4583,72,LORO,Kutai Timur
+knn_klas_pca,2,0.4028,72,LORO,Kutai Timur
+knn_klas_spasial,1,0.4028,72,LORO,Kutai Timur
+knn_klas_spasial,2,0.4028,72,LORO,Kutai Timur
+knn_klas_spasial,3,0.3056,72,LORO,Kutai Timur
+knn_klas_spasial,4,0.3056,72,LORO,Kutai Timur
+knn_klas_spasial,5,0.3056,72,LORO,Kutai Timur
+knn_klas_pca,3,0.625,72,LORO,Berau
+knn_klas_pca,5,0.6111,72,LORO,Berau
+knn_klas_pca,4,0.5556,72,LORO,Berau
+knn_klas_pca,1,0.5278,72,LORO,Berau
+knn_klas_pca,2,0.4167,72,LORO,Berau
+knn_klas_spasial,1,0.4167,72,LORO,Berau
+knn_klas_spasial,2,0.4167,72,LORO,Berau
+knn_klas_spasial,4,0.4028,72,LORO,Berau
+knn_klas_spasial,5,0.3194,72,LORO,Berau
+knn_klas_spasial,3,0.3056,72,LORO,Berau
+knn_klas_pca,5,0.5833,72,LORO,Penajam Paser Utara
+knn_klas_pca,3,0.5278,72,LORO,Penajam Paser Utara
+knn_klas_pca,1,0.4861,72,LORO,Penajam Paser Utara
+knn_klas_pca,4,0.4861,72,LORO,Penajam Paser Utara
+knn_klas_pca,2,0.4583,72,LORO,Penajam Paser Utara
+knn_klas_spasial,1,0.4583,72,LORO,Penajam Paser Utara
+knn_klas_spasial,2,0.4583,72,LORO,Penajam Paser Utara
+knn_klas_spasial,4,0.4028,72,LORO,Penajam Paser Utara
+knn_klas_spasial,3,0.3611,72,LORO,Penajam Paser Utara
+knn_klas_spasial,5,0.3611,72,LORO,Penajam Paser Utara
+knn_klas_pca,1,0.4722,72,LORO,Mahakam Ulu
+knn_klas_pca,4,0.4306,72,LORO,Mahakam Ulu
+knn_klas_pca,3,0.3889,72,LORO,Mahakam Ulu
+knn_klas_pca,5,0.3889,72,LORO,Mahakam Ulu
+knn_klas_pca,2,0.375,72,LORO,Mahakam Ulu
+knn_klas_spasial,4,0.3194,72,LORO,Mahakam Ulu
+knn_klas_spasial,5,0.2917,72,LORO,Mahakam Ulu
+knn_klas_spasial,1,0.2778,72,LORO,Mahakam Ulu
+knn_klas_spasial,2,0.2778,72,LORO,Mahakam Ulu
+knn_klas_spasial,3,0.25,72,LORO,Mahakam Ulu
+knn_klas_pca,5,0.3472,72,LORO,Balikpapan
+knn_klas_pca,1,0.3333,72,LORO,Balikpapan
+knn_klas_pca,3,0.3333,72,LORO,Balikpapan
+knn_klas_pca,2,0.2778,72,LORO,Balikpapan
+knn_klas_pca,4,0.2639,72,LORO,Balikpapan
+knn_klas_spasial,1,0.4444,72,LORO,Balikpapan
+knn_klas_spasial,2,0.4444,72,LORO,Balikpapan
+knn_klas_spasial,4,0.3056,72,LORO,Balikpapan
+knn_klas_spasial,3,0.2361,72,LORO,Balikpapan
+knn_klas_spasial,5,0.2222,72,LORO,Balikpapan
+knn_klas_pca,3,0.4861,72,LORO,Samarinda
+knn_klas_pca,1,0.4722,72,LORO,Samarinda
+knn_klas_pca,5,0.4583,72,LORO,Samarinda
+knn_klas_pca,4,0.4444,72,LORO,Samarinda
+knn_klas_pca,2,0.4167,72,LORO,Samarinda
+knn_klas_spasial,1,0.25,72,LORO,Samarinda
+knn_klas_spasial,2,0.25,72,LORO,Samarinda
+knn_klas_spasial,4,0.2361,72,LORO,Samarinda
+knn_klas_spasial,3,0.2222,72,LORO,Samarinda
+knn_klas_spasial,5,0.2083,72,LORO,Samarinda
+knn_klas_pca,2,0.4861,72,LORO,Bontang
+knn_klas_pca,3,0.4861,72,LORO,Bontang
+knn_klas_pca,1,0.4583,72,LORO,Bontang
+knn_klas_pca,5,0.4583,72,LORO,Bontang
+knn_klas_pca,4,0.4444,72,LORO,Bontang
+knn_klas_spasial,1,0.3611,72,LORO,Bontang
+knn_klas_spasial,2,0.3611,72,LORO,Bontang
+knn_klas_spasial,3,0.25,72,LORO,Bontang
+knn_klas_spasial,4,0.2361,72,LORO,Bontang
+knn_klas_spasial,5,0.1944,72,LORO,Bontang

@@ -1,0 +1,5 @@
+Skema,Model,Label,n,R2,MAE,RMSE,MAPE_persen
+LORO,knn_pca,KNN regresi pada skor PCA (pembanding),80,0.2389,1.8797,2.1768,36.14
+LORO,knn_spasial,"KNN geospasial (rata-rata P0 k tetangga, tanpa MLR)",80,0.0121,2.195,2.4801,38.82
+Waktu,knn_pca,KNN regresi pada skor PCA (pembanding),20,0.5586,1.215,1.5377,25.19
+Waktu,knn_spasial,"KNN geospasial (rata-rata P0 k tetangga, tanpa MLR)",20,-0.1349,2.0555,2.4658,50.44
